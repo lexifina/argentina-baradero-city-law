@@ -1,0 +1,10 @@
+Ordenanza Nº5700
+Ordenanza Nº 5700
+Baradero, 04/09/2018
+Visto la solicitud interpuesta por la Sra. Gussoni María José, en actuaciones que corren por Expediente “G” 4009-20-06459/18 y;
+Considerando que la Ley Provincial 13010 en su artículo 15, dispuesto la transferencia a los municipios del crédito fiscal de la Provincia y en su artículo 12 establece la facultad en la administración de deudas por el impuesto a los automotores y la Provincia por Ley 10397 y su modificatoria (Ley 13405, Artículo 220, Inciso f.) aplica dicha ley de eximición a contribuyentes con discapacidad.
+Que conforme a lo mencionado este Honorable Concejo sanciona la ordenanza Nº 3422/06 que exceptúa del impuesto a los automotores por discapacidad;
+Que consta a fs 6 del expediente referenciado certificado de discapacidad;
+Que la presente medida se dicta en uso de las atribuciones conferidas por la Ley Orgánica de las Municipalidades de la Provincia de Buenos Aires;
+Por ello, tratado y aprobado, el Honorable Concejo Deliberante del Partido de Baradero sanciona con fuerza de ley la siguiente:
+ORDENANZA
