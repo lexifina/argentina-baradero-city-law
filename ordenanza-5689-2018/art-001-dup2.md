@@ -1,0 +1,1 @@
+Artículo 1º: Convalídese los Convenios y Addenda suscripto entre el Municipio de Baradero, representado por la Intendente Dra. Fernanda C. Antonijevic y la Empresa CINCOVIAL S.A., representado por los Sres. Mariano Luis Sanziani; obrante de fs. 401 a fs. 404 del expediente Nº 4009-20-02227-10, Cuerpo 1, Letra I.
