@@ -1,0 +1,15 @@
+Ordenanza Nº7425
+Ordenanza Nº 7425
+Baradero, 19/11/2025
+Visto la solicitud presentada por la Asociación Bomberos Voluntarios de Baradero, que corren por expediente Nro. 4009-20-10719-14, Cuerpo I-Letra “A”, mediante la cual solicita la condonación de la deuda que mantiene con el Municipio en concepto de tasas - todos los recursos.
+Considerando que la entidad peticionante reviste el carácter de institución de bien público sin fines de lucro, desarrollando una destacada labor cultural, social y comunitaria en beneficio de la población;
+Que la deuda cuya condonación se solicita se generó por circunstancias ajenas a la voluntad de la institución, y su situación económica actual dificulta el cumplimiento de las obligaciones fiscales;
+Que resulta de interés del Municipio favorecer la permanencia y sostenimiento de instituciones históricas que forman parte del acervo cultural y social de la comunidad;
+Que conceptualmente, la condonación de deudas consiste en anular, perdonar o dar por extinguida una deuda u obligación, en todo o en parte y eventualmente sus accesorios (recargos, multas, intereses), operando sobre el pasado, por cuanto las deudas ya fueron devengadas, por voluntad del acreedor o si se prefiere, según cierta doctrina, de una de sus especies: la remisión de la deuda. Que en tanto la exención constituye una dispensa de obligaciones tributarias que opera para el futuro y tiene vigencia para el ejercicio correspondiente a la fecha en que se dicte la medida (conf. Artículo 40 del Decreto Ley 6769/58). En materia tributaria, la posibilidad de condonar deudas tributarias supone una facultad discrecional del Estado, inspirada en razones de solidaridad social, con aquellas personas que demuestren que no pueden afrontar el pago de las contribuciones.
+Que dicho instituto (la condonación) no tiene regulación expresa en la Ley Orgánica de las Municipalidades. - Por ello, se ha estimado que la condonación es una atribución ínsita que poseen los órganos que tienen facultad para crear tributos, ya que importa introducir una modificación en el cálculo de los recursos presupuestados para la Comuna, que solo puede sancionar el Concejo Deliberante a propuesta del otro Departamento Municipal, en merito a las atribuciones conferidas por los Artículos. 34, 35, 36, 109 y 110 de la Ley Orgánica de las Municipalidades.
+En consecuencia y en el supuesto que se plantea, se trataría de una potestad que puede ejercer este Concejo Deliberante.
+En definitiva, será potestad exclusiva del Cuerpo Deliberante evaluar con criterio propio y en ejercicios de facultades que le son privativas, el mérito oportunidad o conveniencia de disponer o no la condonación que se trata.
+Que en el presente caso considera este Cuerpo Colegiado que se encuentran plenamente acreditados los requisitos que hacen a la procedencia de la condonación de la deuda que por la tasa -todos los recursos- pesa sobre el inmueble, así como de sus multas y demás accesorias legales si las hubiere.
+Por ello;
+Tratado y Aprobado, el Honorable Concejo Deliberante del Partido de Baradero, sanciona con fuerza de Ley la siguiente:
+ORDENANZA
