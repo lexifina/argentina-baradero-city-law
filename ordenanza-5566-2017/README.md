@@ -1,0 +1,9 @@
+# Ordenanza 5566/2017: Modifíquese el artículo 2º de la Ordenanza Preparatoria registrada bajo el Nº 5255/16, el que quedará redactada de la siguiente forma: “Artículo 2º: Crease el Distrito Urbanización Especial II, al cual se le asignan los 
+
+Ordenanza 5566/2017 · 1 versions, from 2018-01-07 (latest in force: 2018-01-07) · <https://sibom.slyt.gba.gob.ar/bulletins/600/contents/1179659>
+
+| Provision | File | Changes | Last changed |
+| --- | --- | ---: | --- |
+| Artículo 1 | [art-001.md](art-001.md) | 0 |  |
+| Artículo 2 | [art-002.md](art-002.md) | 0 |  |
+| Encabezado | [encabezado.md](encabezado.md) | 0 |  |

@@ -1,0 +1,11 @@
+{
+  "path": "ar-b-baradero",
+  "code": "AR-B-BARADERO",
+  "name": "Baradero",
+  "level": "municipality",
+  "parent": "ar-b",
+  "repo": "https://github.com/lexifina/argentina-baradero-city-law",
+  "build": "built: municipal ordinances (191 ordinances, 191 versions) from https://sibom.slyt.gba.gob.ar/cities/11",
+  "language": "es",
+  "sources": 1
+}

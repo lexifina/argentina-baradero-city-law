@@ -1,0 +1,2679 @@
+{
+ "country": "AR-B-BARADERO",
+ "acts": [
+  {
+   "slug": "ordenanza-5475-2017",
+   "short": "Ordenanza 5475/2017",
+   "title": "Ordenanza 5475/2017: Autorícese al Partido Unión Cívica Radical, a proceder a la instalación del Busto de los ex Presidentes Yrigoyen Hipólito, Illia Arturo Umberto y Alfonsín Raúl Ricardo, que serán emplazados en la Plaza Mitre de nuestra c",
+   "url": "https://sibom.slyt.gba.gob.ar/bulletins/144/contents/1148873",
+   "versions": [
+    {
+     "from": "2017-08-09",
+     "units": 6,
+     "source_url": "https://sibom.slyt.gba.gob.ar/bulletins/144/contents/1148873",
+     "sha256": "abbc2cfe3b441e9567c2244ea80c8abc6d2cce69e1eb01e289769c2ea8857b33"
+    }
+   ]
+  },
+  {
+   "slug": "ordenanza-5479-2017",
+   "short": "Ordenanza 5479/2017",
+   "title": "Ordenanza 5479/2017: Aceptase la renuncia presentada por la Sra. María de los Ángeles Monsalvo, Titular del DNI 17.409.699, a la adjudicación de la vivienda Nº 9, otorgada oportunamente Plan de viviendas Programa Compartir – Policía Comunal,",
+   "url": "https://sibom.slyt.gba.gob.ar/bulletins/144/contents/1148879",
+   "versions": [
+    {
+     "from": "2017-08-09",
+     "units": 3,
+     "source_url": "https://sibom.slyt.gba.gob.ar/bulletins/144/contents/1148879",
+     "sha256": "95437bf891b3c9ae95d47560b3f291020951af40c2f44738fd662b553294b78f"
+    }
+   ]
+  },
+  {
+   "slug": "ordenanza-5495-2017",
+   "short": "Ordenanza 5495/2017",
+   "title": "Ordenanza 5495/2017: Aceptase la renuncia presentada por la Sra. Gómez Clarisa Daniela, titular del DNI: 24.151.950 a la adjudicación de la Vivienda Nº 47, otorgada oportunamente en el Barrio Bernabé de San Martín – II Etapa, designado catas",
+   "url": "https://sibom.slyt.gba.gob.ar/bulletins/281/contents/1151562",
+   "versions": [
+    {
+     "from": "2017-08-24",
+     "units": 2,
+     "source_url": "https://sibom.slyt.gba.gob.ar/bulletins/281/contents/1151562",
+     "sha256": "d5d1749a058e52451f29931f98f05508c2741a5b6d5f3540fe14c06a9956e93e"
+    }
+   ]
+  },
+  {
+   "slug": "ordenanza-5497-2017",
+   "short": "Ordenanza 5497/2017",
+   "title": "Ordenanza 5497/2017: Modifíquese el articulo 12º de la Ordenanza registrada bajo el Nº 4399/10, el que quedará redactado de la siguiente manera: “Artículo 12: Comercios en el Microcentro Comercial. Dentro de la zona denominada Microcentro co",
+   "url": "https://sibom.slyt.gba.gob.ar/bulletins/281/contents/1151568",
+   "versions": [
+    {
+     "from": "2017-08-24",
+     "units": 6,
+     "source_url": "https://sibom.slyt.gba.gob.ar/bulletins/281/contents/1151568",
+     "sha256": "76558820630d9c83bbd8f36bb3ef95941894e0821b7ec95ae120c43f9ae11db3"
+    }
+   ]
+  },
+  {
+   "slug": "ordenanza-5501-2017",
+   "short": "Ordenanza 5501/2017",
+   "title": "Ordenanza 5501/2017: Extiéndase en cinco años contados a partir del día 31 de agosto de 2017, la exención impositiva que beneficia a Industrias MARO S.A., conforme Art. 3 y modificatoria de la Ordenanza Nº 1426/92.",
+   "url": "https://sibom.slyt.gba.gob.ar/bulletins/281/contents/1151578",
+   "versions": [
+    {
+     "from": "2017-08-24",
+     "units": 4,
+     "source_url": "https://sibom.slyt.gba.gob.ar/bulletins/281/contents/1151578",
+     "sha256": "198c4b13cedcfac6ba176e57e15d8b573ce049488d5742e8c44d155c661a4d6f"
+    }
+   ]
+  },
+  {
+   "slug": "ordenanza-5505-2017",
+   "short": "Ordenanza 5505/2017",
+   "title": "Ordenanza 5505/2017: Exímase del pago del impuesto de patentes de Rodados Menores, Dominio 753JQW, correspondiente a la Cuenta 200341-0, propiedad del Sr. Daniel E. Hatún, DNI 26.130.141, respecto al período 2017.",
+   "url": "https://sibom.slyt.gba.gob.ar/bulletins/301/contents/1153697",
+   "versions": [
+    {
+     "from": "2017-09-02",
+     "units": 3,
+     "source_url": "https://sibom.slyt.gba.gob.ar/bulletins/301/contents/1153697",
+     "sha256": "b6c5866a5606d196acb6cffa95fd9f006717c6b3f2d850842eee88e103c11e93"
+    }
+   ]
+  },
+  {
+   "slug": "ordenanza-5518-2017",
+   "short": "Ordenanza 5518/2017",
+   "title": "Ordenanza 5518/2017: Declarase Área de Protección Histórica en la localidad de Alsina (APH) a la cuadricula comprendida entre las calles Av. San Martín, 25 de mayo y desde la calle Primera Junta a la calle Mitre.",
+   "url": "https://sibom.slyt.gba.gob.ar/bulletins/301/contents/1153718",
+   "versions": [
+    {
+     "from": "2017-09-02",
+     "units": 7,
+     "source_url": "https://sibom.slyt.gba.gob.ar/bulletins/301/contents/1153718",
+     "sha256": "e13f9823a983048beb478356f96b0452a22288190bbfc64631b0db64267e95ec"
+    }
+   ]
+  },
+  {
+   "slug": "ordenanza-5523-2017",
+   "short": "Ordenanza 5523/2017",
+   "title": "Ordenanza 5523/2017: Convalídese el Convenio suscripto entre el Municipio de Baradero, representado por la Intendente Dra. Fernanda C. Antonijevic y la Cámara de diputados de la Provincia de Buenos Aires representado por su Presidente Dr. Ma",
+   "url": "https://sibom.slyt.gba.gob.ar/bulletins/393/contents/1162757",
+   "versions": [
+    {
+     "from": "2017-10-12",
+     "units": 3,
+     "source_url": "https://sibom.slyt.gba.gob.ar/bulletins/393/contents/1162757",
+     "sha256": "5c1b5ce612f9d27240c710ebf87a0b5330bee66bc51dddbb6d50aadd2fd98006"
+    }
+   ]
+  },
+  {
+   "slug": "ordenanza-5561-2017",
+   "short": "Ordenanza 5561/2017",
+   "title": "Ordenanza 5561/2017: Establécese la obligatoriedad de la colocación de detectores de metales “tipo fijo” en forma de pórtico o arco y de cámaras de seguridad en la puerta de ingreso de todos los locales de rubro (confiterías bailables, disco",
+   "url": "https://sibom.slyt.gba.gob.ar/bulletins/434/contents/1166224",
+   "versions": [
+    {
+     "from": "2017-10-23",
+     "units": 8,
+     "source_url": "https://sibom.slyt.gba.gob.ar/bulletins/434/contents/1166224",
+     "sha256": "12ca10874ded564bbbfbf1000b77b9e408fb59c60a95cd5201cb0c7f542474d9"
+    }
+   ]
+  },
+  {
+   "slug": "ordenanza-5537-2017",
+   "short": "Ordenanza 5537/2017",
+   "title": "Ordenanza 5537/2017: Apruébese el proyecto de Inversión de Fondos presentados por la Asociación de Bomberos Voluntarios de Baradero para el año 2016, obrante a fs 1 del expediente “A” 20-2109/16 que corre adjunto al expediente “B” 4009-20-02",
+   "url": "https://sibom.slyt.gba.gob.ar/bulletins/434/contents/1166200",
+   "versions": [
+    {
+     "from": "2017-11-01",
+     "units": 3,
+     "source_url": "https://sibom.slyt.gba.gob.ar/bulletins/434/contents/1166200",
+     "sha256": "76d49557946e1164511af130595172631ded2efd55ffb3bb3eb1c5b54b7cd761"
+    }
+   ]
+  },
+  {
+   "slug": "ordenanza-5542-2017",
+   "short": "Ordenanza 5542/2017",
+   "title": "Ordenanza 5542/2017: Autorizase al Departamento Ejecutivo a otorgar la tenencia precaria de la vivienda Nº 19, Plan de Vivienda “Barrio Emergencia Hídrica” de la localidad de Alsina, Partido de Baradero, sito catastralmente como Circ. X, par",
+   "url": "https://sibom.slyt.gba.gob.ar/bulletins/434/contents/1166205",
+   "versions": [
+    {
+     "from": "2017-11-01",
+     "units": 5,
+     "source_url": "https://sibom.slyt.gba.gob.ar/bulletins/434/contents/1166205",
+     "sha256": "376f4fa534714233e8119397e6395ee42b35e61087328458b515099f82246297"
+    }
+   ]
+  },
+  {
+   "slug": "ordenanza-5549-2017",
+   "short": "Ordenanza 5549/2017",
+   "title": "Ordenanza 5549/2017: Autorizase al Departamento Ejecutivo Municipal a efectuar reserva de espacio público de estacionamiento (10 Metros) frente a la Empresa Secchi Servicios Sociales, sobre margen derecho en calle Ameghino Nº 310, a los efec",
+   "url": "https://sibom.slyt.gba.gob.ar/bulletins/434/contents/1166211",
+   "versions": [
+    {
+     "from": "2017-11-01",
+     "units": 4,
+     "source_url": "https://sibom.slyt.gba.gob.ar/bulletins/434/contents/1166211",
+     "sha256": "5e79a36989457abca143255acbf0e2df602ee75f4289d4a08fa5a63b94084596"
+    }
+   ]
+  },
+  {
+   "slug": "ordenanza-5557-2017",
+   "short": "Ordenanza 5557/2017",
+   "title": "Ordenanza 5557/2017: Efectuase una excepción a la Ordenanza registrada bajo el Nº 5415/17, en su Art. 19, Inc. 13, respecto al uso del Espacio Público en el Partido e Baradero, a la firma Rocco Automotores, representado por el Sr. Javier Zar",
+   "url": "https://sibom.slyt.gba.gob.ar/bulletins/434/contents/1166220",
+   "versions": [
+    {
+     "from": "2017-11-01",
+     "units": 4,
+     "source_url": "https://sibom.slyt.gba.gob.ar/bulletins/434/contents/1166220",
+     "sha256": "84eeb9c9ca459b21ff9c0a24766636b3bca40d5c25b778856d0eeae386f9c7e7"
+    }
+   ]
+  },
+  {
+   "slug": "ordenanza-5563-2017",
+   "short": "Ordenanza 5563/2017",
+   "title": "Ordenanza 5563/2017: Convalídese el Convenio Prospección Sociedad Española suscripto entre el Municipio de Baradero, representado por la Intendente Municipal Dra. Fernanda C. Antonijevic y la Asociación Española de Socorros Mutuos de Barader",
+   "url": "https://sibom.slyt.gba.gob.ar/bulletins/600/contents/1179653",
+   "versions": [
+    {
+     "from": "2018-01-07",
+     "units": 3,
+     "source_url": "https://sibom.slyt.gba.gob.ar/bulletins/600/contents/1179653",
+     "sha256": "5cb9b93f86ae847bc8a82a2368ebeb8abd8d332afec61b465073a02efeaa1f18"
+    }
+   ]
+  },
+  {
+   "slug": "ordenanza-5565-2017",
+   "short": "Ordenanza 5565/2017",
+   "title": "Ordenanza 5565/2017: Autorizase al Departamento Ejecutivo Municipal a suscribir Convenio de Colaboración y Adhesión para la implementación del Servicio de Atención Médica de Emergencias de la Provincia de Buenos Aires y sus anexos I, anexo I",
+   "url": "https://sibom.slyt.gba.gob.ar/bulletins/600/contents/1179658",
+   "versions": [
+    {
+     "from": "2018-01-07",
+     "units": 3,
+     "source_url": "https://sibom.slyt.gba.gob.ar/bulletins/600/contents/1179658",
+     "sha256": "baf04f030e705f989f8536e14a5d97855a651630fb6f0934132e3fd92c746951"
+    }
+   ]
+  },
+  {
+   "slug": "ordenanza-5566-2017",
+   "short": "Ordenanza 5566/2017",
+   "title": "Ordenanza 5566/2017: Modifíquese el artículo 2º de la Ordenanza Preparatoria registrada bajo el Nº 5255/16, el que quedará redactada de la siguiente forma: “Artículo 2º: Crease el Distrito Urbanización Especial II, al cual se le asignan los ",
+   "url": "https://sibom.slyt.gba.gob.ar/bulletins/600/contents/1179659",
+   "versions": [
+    {
+     "from": "2018-01-07",
+     "units": 3,
+     "source_url": "https://sibom.slyt.gba.gob.ar/bulletins/600/contents/1179659",
+     "sha256": "1018bb286d339ecfc2a713e32c66781fb667920a3f30ed517f44e768c47f6b0e"
+    }
+   ]
+  },
+  {
+   "slug": "ordenanza-5567-2017",
+   "short": "Ordenanza 5567/2017",
+   "title": "Ordenanza 5567/2017: Convalídese el Convenio, su anexo I y Convenio Marco, suscripto entre el Municipio de Baradero, representado por la Intendente Dra. Fernanda Carolina Antonijevic y la Universidad Nacional de San Antonio de Areco, represe",
+   "url": "https://sibom.slyt.gba.gob.ar/bulletins/600/contents/1179662",
+   "versions": [
+    {
+     "from": "2018-01-07",
+     "units": 3,
+     "source_url": "https://sibom.slyt.gba.gob.ar/bulletins/600/contents/1179662",
+     "sha256": "af8f0521a1f104c76138d9f9dae1ba7f8f0e96d8178a478178c2caace6e04f8b"
+    }
+   ]
+  },
+  {
+   "slug": "ordenanza-5568-2017",
+   "short": "Ordenanza 5568/2017",
+   "title": "Ordenanza 5568/2017: Autorizase al Departamento Ejecutivo Municipal a efectuar reserva de espacio público de estacionamiento al Sr. Juan Domingo Calzone, Titular del DNI 13.644.737, frente a su domicilio para un solo vehículo (Gazcón Nº 650)",
+   "url": "https://sibom.slyt.gba.gob.ar/bulletins/600/contents/1179663",
+   "versions": [
+    {
+     "from": "2018-01-07",
+     "units": 4,
+     "source_url": "https://sibom.slyt.gba.gob.ar/bulletins/600/contents/1179663",
+     "sha256": "b0782c8f9dce9397ba8e4de19c5a06dbd85bf2d3b6b64c91f07471da46e650c7"
+    }
+   ]
+  },
+  {
+   "slug": "ordenanza-5574-2018",
+   "short": "Ordenanza 5574/2018",
+   "title": "Ordenanza 5574/2018: Autorizase al Departamento Ejecutivo Municipal a efectuar reserva de espacio público de estacionamiento al Sr. Cruz Jorge Lucio, Titular del DNI: 11.996.067, frente a su domicilio, para un solo vehículo (Laprida Nº 710) ",
+   "url": "https://sibom.slyt.gba.gob.ar/bulletins/607/contents/1179973",
+   "versions": [
+    {
+     "from": "2018-01-11",
+     "units": 4,
+     "source_url": "https://sibom.slyt.gba.gob.ar/bulletins/607/contents/1179973",
+     "sha256": "f0d5b50a54201f654c6202ac788542be01f6fe976049ca57f776e13fef98c8eb"
+    }
+   ]
+  },
+  {
+   "slug": "ordenanza-5601-2018",
+   "short": "Ordenanza 5601/2018",
+   "title": "Ordenanza 5601/2018: Autorizase al Departamento Ejecutivo Municipal, representado por la Intendente Municipal, a suscribir un convenio con le Ministerio de Desarrollo Social de la Provincia de Buenos Aires, para acceder a becas que acuerda e",
+   "url": "https://sibom.slyt.gba.gob.ar/bulletins/756/contents/1193546",
+   "versions": [
+    {
+     "from": "2018-03-15",
+     "units": 3,
+     "source_url": "https://sibom.slyt.gba.gob.ar/bulletins/756/contents/1193546",
+     "sha256": "854dbb29d85ec28021d9c4c046573bd3ed86a73c2d3ea262249f25303b352adf"
+    }
+   ]
+  },
+  {
+   "slug": "ordenanza-5612-2018",
+   "short": "Ordenanza 5612/2018",
+   "title": "Ordenanza 5612/2018: Reconózcase la deuda que mantiene el Municipio de Baradero con le Proveedor Arrieta Raúl Oscar “Los Años Locos”, correspondiente al año 2015, y autorízase al Departamento Ejecutivo Municipal a efectuar el pago por la sum",
+   "url": "https://sibom.slyt.gba.gob.ar/bulletins/767/contents/1194942",
+   "versions": [
+    {
+     "from": "2018-03-21",
+     "units": 4,
+     "source_url": "https://sibom.slyt.gba.gob.ar/bulletins/767/contents/1194942",
+     "sha256": "2a4cbb71da7650963af72e36c9d5627a008d9252600ea7b598ee89b0011a3857"
+    }
+   ]
+  },
+  {
+   "slug": "ordenanza-5615-2018",
+   "short": "Ordenanza 5615/2018",
+   "title": "Ordenanza 5615/2018: Autorización al Departamento Ejecutivo Municipal a suscribir Contrato de Locacion del inmueble sito catastralmente como Circ. III, Secc. C, Chacra 65, Parcela I, Partida 0655, entre el Municipio de Baradero, representado",
+   "url": "https://sibom.slyt.gba.gob.ar/bulletins/767/contents/1194945",
+   "versions": [
+    {
+     "from": "2018-03-21",
+     "units": 4,
+     "source_url": "https://sibom.slyt.gba.gob.ar/bulletins/767/contents/1194945",
+     "sha256": "744b2b5dd6df338ed1956d00172b7b0b91cee4a864d299a270a9958d2d7076ad"
+    }
+   ]
+  },
+  {
+   "slug": "ordenanza-5619-2018",
+   "short": "Ordenanza 5619/2018",
+   "title": "Ordenanza 5619/2018: Autorizase al Departamento Ejecutivo Municipal de la ciudad de Baradero, a adjudicar la Licitación Privada Nº 03/2018, para la contratación de los servicios de Proyección y de Filiación y Cámaras para el PRE – Festival y",
+   "url": "https://sibom.slyt.gba.gob.ar/bulletins/829/contents/1199627",
+   "versions": [
+    {
+     "from": "2018-04-15",
+     "units": 3,
+     "source_url": "https://sibom.slyt.gba.gob.ar/bulletins/829/contents/1199627",
+     "sha256": "5a1675e00a6d56e35ed4c479738b3b486d8fb283438afb3fa82ee6bde608796e"
+    }
+   ]
+  },
+  {
+   "slug": "ordenanza-5625-2018",
+   "short": "Ordenanza 5625/2018",
+   "title": "Ordenanza 5625/2018: Incorporase en la Ordenanza Fiscal 2018, Registrada bajo el Nº 5596/17, Título III – Domicilio Fiscal – el Artículo 12 bis, que quedará redactado de la siguiente manera: “Artículo 12 bis: Establecese la obligatoriedad pa",
+   "url": "https://sibom.slyt.gba.gob.ar/bulletins/911/contents/1205607",
+   "versions": [
+    {
+     "from": "2018-05-07",
+     "units": 4,
+     "source_url": "https://sibom.slyt.gba.gob.ar/bulletins/911/contents/1205607",
+     "sha256": "29455a64735933ade38503903c37c65cf55ff80ee9f810bd3d273610c6fcd144"
+    }
+   ]
+  },
+  {
+   "slug": "ordenanza-5633-2018",
+   "short": "Ordenanza 5633/2018",
+   "title": "Ordenanza 5633/2018: Autorizase al Departamento Ejecutivo Municipal a efectuar la desafectación definitiva del patrimonio Municipal los siguientes Bienes Muebles inventariados y que a continuación se detallan:",
+   "url": "https://sibom.slyt.gba.gob.ar/bulletins/911/contents/1205706",
+   "versions": [
+    {
+     "from": "2018-05-07",
+     "units": 4,
+     "source_url": "https://sibom.slyt.gba.gob.ar/bulletins/911/contents/1205706",
+     "sha256": "30f7911dda49ee94aa3eeb32487f413d3eb8b65c17df0bfc941c695c164001a5"
+    }
+   ]
+  },
+  {
+   "slug": "ordenanza-5639-2018",
+   "short": "Ordenanza 5639/2018",
+   "title": "Ordenanza 5639/2018: Aceptase la Donación efectuada por la Empresa INGREDION SRL, a favor de la Municipalidad de Baradero, por la suma de pesos trescientos mil ($ 300.000=) destinado a solventar gastos de organización del Festival de Música ",
+   "url": "https://sibom.slyt.gba.gob.ar/bulletins/911/contents/1205822",
+   "versions": [
+    {
+     "from": "2018-05-07",
+     "units": 3,
+     "source_url": "https://sibom.slyt.gba.gob.ar/bulletins/911/contents/1205822",
+     "sha256": "115435ff737ddda8a583aebf5118b48ff4edf0621e193a2937ea1af25cd3c294"
+    }
+   ]
+  },
+  {
+   "slug": "ordenanza-5641-2018",
+   "short": "Ordenanza 5641/2018",
+   "title": "Ordenanza 5641/2018: Convalídese Adenda del Contrato de Arrendamiento, suscripto por el Departamento Ejecutivo Municipal, representado por la Intendente Municipal Dra. Fernanda C. Antonijevic y la Empresa CINCOVIAL S.A., con domicilio en cal",
+   "url": "https://sibom.slyt.gba.gob.ar/bulletins/987/contents/1212983",
+   "versions": [
+    {
+     "from": "2018-06-02",
+     "units": 3,
+     "source_url": "https://sibom.slyt.gba.gob.ar/bulletins/987/contents/1212983",
+     "sha256": "82287e33b60ee313808e568aeffa8e4fa6741f68d87a274aee9bce820f9fe73c"
+    }
+   ]
+  },
+  {
+   "slug": "ordenanza-5642-2018",
+   "short": "Ordenanza 5642/2018",
+   "title": "Ordenanza 5642/2018: Autorizase la departamento Ejecutivo Municipal a efectuar reserva de espacio público frente al Edificio del Club Atlético Baradero, Personería Jurídica Nº 2725, sito en calle Avda. San Martín Nº 857 de la ciudad de Barad",
+   "url": "https://sibom.slyt.gba.gob.ar/bulletins/987/contents/1212984",
+   "versions": [
+    {
+     "from": "2018-06-02",
+     "units": 5,
+     "source_url": "https://sibom.slyt.gba.gob.ar/bulletins/987/contents/1212984",
+     "sha256": "b71d5779eba1d3cb2b77bf42f505a227e6c3f86b57abdf69d15c7c3cdffb2d35"
+    }
+   ]
+  },
+  {
+   "slug": "ordenanza-5651-2018",
+   "short": "Ordenanza 5651/2018",
+   "title": "Ordenanza 5651/2018: Establézcase de modo excepcional un régimen especial de regularización y facilidades de pago de las multas aplicadas por infracciones por el Tribunal de Faltas Municipal.",
+   "url": "https://sibom.slyt.gba.gob.ar/bulletins/987/contents/1213140",
+   "versions": [
+    {
+     "from": "2018-06-02",
+     "units": 6,
+     "source_url": "https://sibom.slyt.gba.gob.ar/bulletins/987/contents/1213140",
+     "sha256": "19d7c1b168efa08a68097c12c4b626382417eacc5214189ebc77c464c4dd9623"
+    }
+   ]
+  },
+  {
+   "slug": "ordenanza-5654-2018",
+   "short": "Ordenanza 5654/2018",
+   "title": "Ordenanza 5654/2018: Reconózcase la deuda que mantiene el Municipio de Baradero con el Proveedor De Lazzari Pablo Alejandro, correspondiente al año 2017, y autorizase al Departamento Ejecutivo Municipal a efectuar el pago por la suma de peso",
+   "url": "https://sibom.slyt.gba.gob.ar/bulletins/1120/contents/1225287",
+   "versions": [
+    {
+     "from": "2018-07-15",
+     "units": 4,
+     "source_url": "https://sibom.slyt.gba.gob.ar/bulletins/1120/contents/1225287",
+     "sha256": "46788d0f46618d30b2e7abad9a681adf6a92d2cfe0427c1a3c0dce73bb782950"
+    }
+   ]
+  },
+  {
+   "slug": "ordenanza-5658-2018",
+   "short": "Ordenanza 5658/2018",
+   "title": "Ordenanza 5658/2018: Revóquese la tenencia precaria otorgada por el término de cinco (5) años, la Sr. Caputo Jorge Leonel, DNI 29.723.758, sobre el predio municipal ubicado sobre calle Antonio Carranza, entre Segundo Sombra, Santa Vega y Hér",
+   "url": "https://sibom.slyt.gba.gob.ar/bulletins/1120/contents/1225308",
+   "versions": [
+    {
+     "from": "2018-07-15",
+     "units": 8,
+     "source_url": "https://sibom.slyt.gba.gob.ar/bulletins/1120/contents/1225308",
+     "sha256": "090f71dc05aeb58e8ace47dada74c370092bcf20a886d18cdab9b93c29389868"
+    }
+   ]
+  },
+  {
+   "slug": "ordenanza-5659-2018",
+   "short": "Ordenanza 5659/2018",
+   "title": "Ordenanza 5659/2018: Exímase a la Srta. Romina Sosa, titular del DNI 31.536.292, del pago de Derecho por Espectáculos Públicos correspondiente al “9º Festival de Fitness, Sembrando Sueños” que se realizó el día 09 de diciembre de 2017 en el ",
+   "url": "https://sibom.slyt.gba.gob.ar/bulletins/1120/contents/1225309",
+   "versions": [
+    {
+     "from": "2018-07-15",
+     "units": 3,
+     "source_url": "https://sibom.slyt.gba.gob.ar/bulletins/1120/contents/1225309",
+     "sha256": "31ee6a5341381f0f160da0637c625348669c5f66a036b5c71896f6f59995f50e"
+    }
+   ]
+  },
+  {
+   "slug": "ordenanza-5666-2018",
+   "short": "Ordenanza 5666/2018",
+   "title": "Ordenanza 5666/2018: Efectuase una excepción a la Ordenanza Registrada bajo el Nº 4877/13, respecto al fondo libre, FOS y FOT, correspondiente a la obra nueva “Spa y Cocheras”, propiedad de la Sra. Sandra Noemí Abrego, DNI: 18.569.629, Nomen",
+   "url": "https://sibom.slyt.gba.gob.ar/bulletins/1286/contents/1238496",
+   "versions": [
+    {
+     "from": "2018-09-02",
+     "units": 3,
+     "source_url": "https://sibom.slyt.gba.gob.ar/bulletins/1286/contents/1238496",
+     "sha256": "fd3c9b68c33514c26a1ae75f8a57290dc2b7f849a1f28642b4c2f006c399b77f"
+    }
+   ]
+  },
+  {
+   "slug": "ordenanza-5676-2018",
+   "short": "Ordenanza 5676/2018",
+   "title": "Ordenanza 5676/2018: Autorizase al Departamento Ejecutivo a eximir al Club Deportivo Alsina, del pago de los derechos por espectáculos públicos , correspondiente a la realización de los Corsos 2018, efectuado los días 13, 20 y 27 de enero y ",
+   "url": "https://sibom.slyt.gba.gob.ar/bulletins/1286/contents/1238508",
+   "versions": [
+    {
+     "from": "2018-09-02",
+     "units": 3,
+     "source_url": "https://sibom.slyt.gba.gob.ar/bulletins/1286/contents/1238508",
+     "sha256": "4a4059d828738939840fe051d5a20c91309b68100537b2e9769efa4261b77c92"
+    }
+   ]
+  },
+  {
+   "slug": "ordenanza-5679-2018",
+   "short": "Ordenanza 5679/2018",
+   "title": "Ordenanza 5679/2018: Autorizase al Departamento Ejecutivo Municipal, representado por el Intendente Municipal Dra. Fernanda C. Antonijevic, a suscribir convenio con el Organismo Provincial de la Niñez y Adolescencia, para acceder a becas con",
+   "url": "https://sibom.slyt.gba.gob.ar/bulletins/1332/contents/1242370",
+   "versions": [
+    {
+     "from": "2018-09-15",
+     "units": 3,
+     "source_url": "https://sibom.slyt.gba.gob.ar/bulletins/1332/contents/1242370",
+     "sha256": "3503092285a7fa3f5fecaf3b5effa81433981d8a1a4907404352bad7c76a22df"
+    }
+   ]
+  },
+  {
+   "slug": "ordenanza-5682-2018",
+   "short": "Ordenanza 5682/2018",
+   "title": "Ordenanza 5682/2018: Convalídese el Convenio de Colaboración, suscripto entre el Municipio de Baradero representado por la Intendente Dra. Fernanda Carolina Antonijevic y el Banco de la Nación Argentina, representado por el Gerente Departame",
+   "url": "https://sibom.slyt.gba.gob.ar/bulletins/1332/contents/1242377",
+   "versions": [
+    {
+     "from": "2018-09-15",
+     "units": 3,
+     "source_url": "https://sibom.slyt.gba.gob.ar/bulletins/1332/contents/1242377",
+     "sha256": "fe22441bcaab94deb2db5ed9164f2bc95ef56812bf61de05d5b3b4f378e69032"
+    }
+   ]
+  },
+  {
+   "slug": "ordenanza-5683-2018",
+   "short": "Ordenanza 5683/2018",
+   "title": "Ordenanza 5683/2018: Exímase del pago correspondiente de Libreta Sanitaria a la Sra. Bruno Susana Haydee, Titular del DNI 14.491.036, con domicilio real en calle Dollera Nº 1160 de la ciudad de Baradero.",
+   "url": "https://sibom.slyt.gba.gob.ar/bulletins/1332/contents/1242379",
+   "versions": [
+    {
+     "from": "2018-09-15",
+     "units": 3,
+     "source_url": "https://sibom.slyt.gba.gob.ar/bulletins/1332/contents/1242379",
+     "sha256": "1c31b96ce9b0921b6e3c3dc21be1829028d1c7539d2ae90c69a361a2f8940721"
+    }
+   ]
+  },
+  {
+   "slug": "ordenanza-5689-2018",
+   "short": "Ordenanza 5689/2018",
+   "title": "Ordenanza 5689/2018: Convalídese los Convenios y Addenda suscripto entre el Municipio de Baradero, representado por la Intendente Dra. Fernanda C. Antonijevic y la Empresa CINCOVIAL S.A., representado por los Sres. Mariano Luis Sanziani; obr",
+   "url": "https://sibom.slyt.gba.gob.ar/bulletins/1640/contents/1267680",
+   "versions": [
+    {
+     "from": "2018-12-02",
+     "units": 5,
+     "source_url": "https://sibom.slyt.gba.gob.ar/bulletins/1640/contents/1267680",
+     "sha256": "91f257ec53a0a2dd2ce6f5350c70de525d0e20c058f9dcc6e625456d6cd1fc80"
+    }
+   ]
+  },
+  {
+   "slug": "ordenanza-5691-2018",
+   "short": "Ordenanza 5691/2018",
+   "title": "Ordenanza 5691/2018: Autorizase al Departamento Ejecutivo Municipal a suscribir Convenio Especifico de Cooperación y Asistencia interinstitucional para la implementación del Plan Nacional para la Planificación y Gestión Local de la Seguridad",
+   "url": "https://sibom.slyt.gba.gob.ar/bulletins/1640/contents/1267717",
+   "versions": [
+    {
+     "from": "2018-12-02",
+     "units": 3,
+     "source_url": "https://sibom.slyt.gba.gob.ar/bulletins/1640/contents/1267717",
+     "sha256": "be915f4b9ab6bfd1ac4ea2e3fb30708ab0e7d41c2660ca7706d6abc7193201ea"
+    }
+   ]
+  },
+  {
+   "slug": "ordenanza-5692-2018",
+   "short": "Ordenanza 5692/2018",
+   "title": "Ordenanza 5692/2018: Autorizase al Departamento Ejecutivo Municipal de la ciudad de Baradero, a adjudicar la Licitación Privada Nº 10/2018, para la provisión de combustible (10.000 lts Gas Oil Tipo Euro y 10.000 lts Gas Oil D500) con destino",
+   "url": "https://sibom.slyt.gba.gob.ar/bulletins/1640/contents/1267718",
+   "versions": [
+    {
+     "from": "2018-12-02",
+     "units": 3,
+     "source_url": "https://sibom.slyt.gba.gob.ar/bulletins/1640/contents/1267718",
+     "sha256": "18a18841c57893e91fa815e27f59938573327ce51c2dc20cb7fe8f2689420d2c"
+    }
+   ]
+  },
+  {
+   "slug": "ordenanza-5700-2018",
+   "short": "Ordenanza 5700/2018",
+   "title": "Ordenanza 5700/2018: Condonase la deuda que registra la contribuyente Sra. Gussoni María José, DNI 22.214.066 Titular registrable del vehiculo Marca: Renault, Modelo Kangoo RNI 1.4. Dominio COH124, correspondiente a las cuotas 02/2015, 2016 ",
+   "url": "https://sibom.slyt.gba.gob.ar/bulletins/1642/contents/1267980",
+   "versions": [
+    {
+     "from": "2018-12-02",
+     "units": 4,
+     "source_url": "https://sibom.slyt.gba.gob.ar/bulletins/1642/contents/1267980",
+     "sha256": "24a831405c013ecb78ed6bbfcae0feac4aeac37e5d9ce12d904f08ce059ab2ba"
+    }
+   ]
+  },
+  {
+   "slug": "ordenanza-5715-2018",
+   "short": "Ordenanza 5715/2018",
+   "title": "Ordenanza 5715/2018: Condonase por el ejercicio 2017 al Centro Tradicionalista “El Resero” de la ciudad de Baradero, Cuenta Nº 4467, del pago de Tasas por Inspección de Seguridad e Higiene y sus correspondientes recargos que mantiene con la ",
+   "url": "https://sibom.slyt.gba.gob.ar/bulletins/1651/contents/1269003",
+   "versions": [
+    {
+     "from": "2018-12-07",
+     "units": 5,
+     "source_url": "https://sibom.slyt.gba.gob.ar/bulletins/1651/contents/1269003",
+     "sha256": "b6ed3fae9fac4425662037f8ea49ec13ec05526cf811acbdac09d3532670e1a2"
+    }
+   ]
+  },
+  {
+   "slug": "ordenanza-5717-2018",
+   "short": "Ordenanza 5717/2018",
+   "title": "Ordenanza 5717/2018: Condonase la deuda que registra la contribuyente Sra. Leguizamón Nélida Raquel, DNI 4.736.402, cuenta Nº 7440, por el ejercicio 2017, en concepto de tasas por limpieza, conservación de la vía pública y servicios sanitari",
+   "url": "https://sibom.slyt.gba.gob.ar/bulletins/1651/contents/1269007",
+   "versions": [
+    {
+     "from": "2018-12-07",
+     "units": 4,
+     "source_url": "https://sibom.slyt.gba.gob.ar/bulletins/1651/contents/1269007",
+     "sha256": "b69e3d4bc5b2240905ff2a816649832fa9b3091de5d76d9a2b6268e12be5836d"
+    }
+   ]
+  },
+  {
+   "slug": "ordenanza-5718-2018",
+   "short": "Ordenanza 5718/2018",
+   "title": "Ordenanza 5718/2018: Derogase el artículo 2º de la Ordenanza registrada bajo el Nº 4394/10, Reglamento de Venta de Gas Licuado en el Partido de Baradero.",
+   "url": "https://sibom.slyt.gba.gob.ar/bulletins/1651/contents/1269008",
+   "versions": [
+    {
+     "from": "2018-12-07",
+     "units": 3,
+     "source_url": "https://sibom.slyt.gba.gob.ar/bulletins/1651/contents/1269008",
+     "sha256": "b16935cf458c120a7ec9ef139c3db3a6f7ab1f79bad060705fbec5a80ea5e76e"
+    }
+   ]
+  },
+  {
+   "slug": "ordenanza-5720-2018",
+   "short": "Ordenanza 5720/2018",
+   "title": "Ordenanza 5720/2018: Condonase la deuda que registra el contribuyente Sr. Velázquez Mario, DNI 11.636.805, Titular registrable del vehículo Marca: Chevrolet, Modelo Corsa II 5P GL AA DIR GAS 1.8, Dominio EJQ091, correspondiente a las cuotas ",
+   "url": "https://sibom.slyt.gba.gob.ar/bulletins/1651/contents/1269012",
+   "versions": [
+    {
+     "from": "2018-12-07",
+     "units": 5,
+     "source_url": "https://sibom.slyt.gba.gob.ar/bulletins/1651/contents/1269012",
+     "sha256": "574012fefb5718a90bd56270a5378ee999c9410e38a9b92f1a4515ae070eec9d"
+    }
+   ]
+  },
+  {
+   "slug": "ordenanza-5735-2019",
+   "short": "Ordenanza 5735/2019",
+   "title": "Ordenanza 5735/2019: Exímase a la Sra. María Cristina Fitzsimons, por el ejercicio 2018 de la Tasa por Inspección de seguridad e higiene del comercio sito en Lavalle 237 de nuestra ciudad. Cuenta Nº 4443.",
+   "url": "https://sibom.slyt.gba.gob.ar/bulletins/1844/contents/1295031",
+   "versions": [
+    {
+     "from": "2019-02-10",
+     "units": 3,
+     "source_url": "https://sibom.slyt.gba.gob.ar/bulletins/1844/contents/1295031",
+     "sha256": "d1d26432ff2b86effa40274c45930c96baeb05efe516f7baeb859e9df5a988b9"
+    }
+   ]
+  },
+  {
+   "slug": "ordenanza-5754-2019",
+   "short": "Ordenanza 5754/2019",
+   "title": "Ordenanza 5754/2019: Autorizase al Departamento Ejecutivo Municipal de la ciudad de Baradero, a adjudicar la Licitación Privada Nº 01/19, para la contratación de los servicios de luces, Sonido, Pantallas y Filmación que se utilizarán durante",
+   "url": "https://sibom.slyt.gba.gob.ar/bulletins/2872/contents/1395875",
+   "versions": [
+    {
+     "from": "2019-11-16",
+     "units": 3,
+     "source_url": "https://sibom.slyt.gba.gob.ar/bulletins/2872/contents/1395875",
+     "sha256": "b62ad809a3da846acdbe0b106a1372cc2d009aa05df8f59b9e449225e7fafbe3"
+    }
+   ]
+  },
+  {
+   "slug": "ordenanza-5756-2019",
+   "short": "Ordenanza 5756/2019",
+   "title": "Ordenanza 5756/2019: Autorizase al Departamento Ejecutivo Municipal, representado por el Intendente Municipal Dra. Fernanda C. Antonijevic, a suscribir convenio con el Organismo Provincial de la Niñez y Adolescencia, para acceder a becas que",
+   "url": "https://sibom.slyt.gba.gob.ar/bulletins/2984/contents/1404769",
+   "versions": [
+    {
+     "from": "2019-12-12",
+     "units": 3,
+     "source_url": "https://sibom.slyt.gba.gob.ar/bulletins/2984/contents/1404769",
+     "sha256": "025979a997f49397f568c124a2a83bfa8b876b4f45c4df71f55f7adec6266e02"
+    }
+   ]
+  },
+  {
+   "slug": "ordenanza-5758-2019",
+   "short": "Ordenanza 5758/2019",
+   "title": "Ordenanza 5758/2019: Exímase al “Club Sportivo Baradero” del pago de los Derechos por espectáculos públicos, correspondiente al tradicional Baile de la Espuma, que se realizó el día 10 de febrero de 2018 en el Polideportivo, sito en Ruta 41 ",
+   "url": "https://sibom.slyt.gba.gob.ar/bulletins/2984/contents/1404776",
+   "versions": [
+    {
+     "from": "2019-12-12",
+     "units": 3,
+     "source_url": "https://sibom.slyt.gba.gob.ar/bulletins/2984/contents/1404776",
+     "sha256": "a9fb880186acbbb66791afb3a690728b9aede556951e6fceb4c3bdc6d1a4568c"
+    }
+   ]
+  },
+  {
+   "slug": "ordenanza-5772-2019",
+   "short": "Ordenanza 5772/2019",
+   "title": "Ordenanza 5772/2019: Autorizase al Departamento Ejecutivo Municipal a otorgar el uso precario del predio ubicado en calle Santos Vega Nº 2091, denominado catastralmente como Circunscripción III, Sección D, Ch 70- Mza, 70 hh2 – Parcela 14, de",
+   "url": "https://sibom.slyt.gba.gob.ar/bulletins/3010/contents/1408157",
+   "versions": [
+    {
+     "from": "2019-12-19",
+     "units": 6,
+     "source_url": "https://sibom.slyt.gba.gob.ar/bulletins/3010/contents/1408157",
+     "sha256": "c4e901a2ce15c22eb4d679f242e9876fba1e9d44df1f5d7a36cf306192192629"
+    }
+   ]
+  },
+  {
+   "slug": "ordenanza-5774-2019",
+   "short": "Ordenanza 5774/2019",
+   "title": "Ordenanza 5774/2019: Autorizase al Departamento Ejecutivo Municipal a transferir con carácter definitivo y gratuito el inmueble designado catastralmente como: Circ. II, Sección B, Qta. 39, Mza. 39ª, cuyas medidas son: 11 metros de frente al ",
+   "url": "https://sibom.slyt.gba.gob.ar/bulletins/3010/contents/1408161",
+   "versions": [
+    {
+     "from": "2019-12-19",
+     "units": 6,
+     "source_url": "https://sibom.slyt.gba.gob.ar/bulletins/3010/contents/1408161",
+     "sha256": "d5b8b7098ffd24a6121808e3c1c3bbbacec397356792c1d125f864d38fbbae5f"
+    }
+   ]
+  },
+  {
+   "slug": "ordenanza-5775-2019",
+   "short": "Ordenanza 5775/2019",
+   "title": "Ordenanza 5775/2019: Apruébese las Obras ejecutadas en el Balneario Municipal hasta el ejercicio 2016 por la Empresa Alpha Servicios e Instalaciones S.A., adjudicataria de la Licitación Pública Nº 03/2010, con domicilio en calle Araoz Nº 701",
+   "url": "https://sibom.slyt.gba.gob.ar/bulletins/3010/contents/1408163",
+   "versions": [
+    {
+     "from": "2019-12-19",
+     "units": 3,
+     "source_url": "https://sibom.slyt.gba.gob.ar/bulletins/3010/contents/1408163",
+     "sha256": "8dee9941a09b7821a18e7cad7f14ba4b07eb7ef574ceaa51527bd398034e1a1d"
+    }
+   ]
+  },
+  {
+   "slug": "ordenanza-5781-2019",
+   "short": "Ordenanza 5781/2019",
+   "title": "Ordenanza 5781/2019: Condonase la deuda que registra la Empresa Magnigresh S.A,- Cuenta Nº 3701-0, por los ejercicios 04/2016, 05/2016, 06/2016, 07/2016, 08/2016, 09/2016, 10/2016, 11/2016, 12/2016, 2017, 2018, en concepto de Tasas SH – todo",
+   "url": "https://sibom.slyt.gba.gob.ar/bulletins/3010/contents/1408176",
+   "versions": [
+    {
+     "from": "2019-12-19",
+     "units": 7,
+     "source_url": "https://sibom.slyt.gba.gob.ar/bulletins/3010/contents/1408176",
+     "sha256": "3c0fd665e618466c5bec519b0e88caf781d6e2f21acfb6db89c7a4e947e52bc4"
+    }
+   ]
+  },
+  {
+   "slug": "ordenanza-5782-2019",
+   "short": "Ordenanza 5782/2019",
+   "title": "Ordenanza 5782/2019: Exímase del pago de los Derechos de Construcción al Instituto Hermanas Pobres Bonaerenses de San José sito en calle Anchorena Nº 707, respecto al inmueble designado catastralmente como Circ. II, Sección B, Fracción de Mz",
+   "url": "https://sibom.slyt.gba.gob.ar/bulletins/3010/contents/1408178",
+   "versions": [
+    {
+     "from": "2019-12-19",
+     "units": 3,
+     "source_url": "https://sibom.slyt.gba.gob.ar/bulletins/3010/contents/1408178",
+     "sha256": "95ad78bec7e5faeda5657540eaf9ba00f1c2060bc1512edcf10ee47bd552e952"
+    }
+   ]
+  },
+  {
+   "slug": "ordenanza-5784-2019",
+   "short": "Ordenanza 5784/2019",
+   "title": "Ordenanza 5784/2019: Establecese un Régimen Especial de Regularización de Obligaciones Tributarias Municipales devengadas hasta los 60 días anteriores a la realización del plan de pago respectivo, destinado a contribuyentes y responsables pa",
+   "url": "https://sibom.slyt.gba.gob.ar/bulletins/3010/contents/1408181",
+   "versions": [
+    {
+     "from": "2019-12-19",
+     "units": 19,
+     "source_url": "https://sibom.slyt.gba.gob.ar/bulletins/3010/contents/1408181",
+     "sha256": "9335dab7af6ec76b25f6300e04e9c3f85bd39a35699a40c5626b0c8475643619"
+    }
+   ]
+  },
+  {
+   "slug": "ordenanza-5787-2019",
+   "short": "Ordenanza 5787/2019",
+   "title": "Ordenanza 5787/2019: Desafectase del área rural, el predio designado catastralmente como: Circ. X, Parc. 1010ª, ubicada en la intersección del camino general Baradero- San Antonio de Areco y camino general Baradero- Zarate, con una superfici",
+   "url": "https://sibom.slyt.gba.gob.ar/bulletins/3017/contents/1408870",
+   "versions": [
+    {
+     "from": "2019-12-21",
+     "units": 7,
+     "source_url": "https://sibom.slyt.gba.gob.ar/bulletins/3017/contents/1408870",
+     "sha256": "1d6a85bff1e93578388751e280dc2de47d7c9c4cf3e21051932bda566d6d3b32"
+    }
+   ]
+  },
+  {
+   "slug": "ordenanza-5788-2019",
+   "short": "Ordenanza 5788/2019",
+   "title": "Ordenanza 5788/2019: Autorizase al Departamento Ejecutivo Municipal a efectuar reserva de espacio público de estacionamiento frente al Centro de Ojos, sobre margen derecho en calle Malabia Nº 1167, en sentido ascendente, a los efectos de est",
+   "url": "https://sibom.slyt.gba.gob.ar/bulletins/3017/contents/1408871",
+   "versions": [
+    {
+     "from": "2019-12-21",
+     "units": 4,
+     "source_url": "https://sibom.slyt.gba.gob.ar/bulletins/3017/contents/1408871",
+     "sha256": "2b23b164ba4693ebc1d69d47f7ff283bf34be82bf5055290ea52c1c09ef10f74"
+    }
+   ]
+  },
+  {
+   "slug": "ordenanza-5791-2019",
+   "short": "Ordenanza 5791/2019",
+   "title": "Ordenanza 5791/2019: Denominase con el nombre “Bicentenario” a la cuadra que circula entre las calles Jesús Callejas y existente (continuación de Esteban Echeverría) conforme a la Ordenanza registrada bajo el Nº 5314-16.",
+   "url": "https://sibom.slyt.gba.gob.ar/bulletins/3017/contents/1408881",
+   "versions": [
+    {
+     "from": "2019-12-21",
+     "units": 4,
+     "source_url": "https://sibom.slyt.gba.gob.ar/bulletins/3017/contents/1408881",
+     "sha256": "0a0cb11618eb9e96cd13f4e1230cd44332c05a1c6f367d4e01a2fbb17dd36f88"
+    }
+   ]
+  },
+  {
+   "slug": "ordenanza-5793-2019",
+   "short": "Ordenanza 5793/2019",
+   "title": "Ordenanza 5793/2019: Aceptase la renuncia del Sr. Frías Marcos Gustavo, DNI 27.758.253, a la adjudicación del inmueble designado catastralmente como Circ. III, Secc. D, Ch 70, Mza. 70 mm1, Parcela 5, Cuenta ABL 24259, de la ciudad de Barader",
+   "url": "https://sibom.slyt.gba.gob.ar/bulletins/3017/contents/1408883",
+   "versions": [
+    {
+     "from": "2019-12-21",
+     "units": 6,
+     "source_url": "https://sibom.slyt.gba.gob.ar/bulletins/3017/contents/1408883",
+     "sha256": "0755fe2148f03926bc4bb7a3d4ec9c5ffee507d729ad5da9c410d0562619c722"
+    }
+   ]
+  },
+  {
+   "slug": "ordenanza-5798-2019",
+   "short": "Ordenanza 5798/2019",
+   "title": "Ordenanza 5798/2019: Efectuase una excepción a la Ordenanza registrada bajo el Nº 4399/10 en su artículo 22, respecto a la Transferencia de habilitaciones y residencia mínima en el Partido, a la Empresa DESTEL S.A., representado por el Presi",
+   "url": "https://sibom.slyt.gba.gob.ar/bulletins/3025/contents/1409463",
+   "versions": [
+    {
+     "from": "2019-12-21",
+     "units": 3,
+     "source_url": "https://sibom.slyt.gba.gob.ar/bulletins/3025/contents/1409463",
+     "sha256": "ca8095ed536a915a7fcbf261582602bed1eefac49a2089c23d9992c43be51492"
+    }
+   ]
+  },
+  {
+   "slug": "ordenanza-5800-2019",
+   "short": "Ordenanza 5800/2019",
+   "title": "Ordenanza 5800/2019: Exímase a la Srta. Romina Sosa, Titular del DNI: 31.536.292 del pago del Derecho por espectáculos públicos, correspondiente al 10º Festival de Fitness “Bailar es Soñar” que se realizó el día 22 de diciembre de 2018 en el",
+   "url": "https://sibom.slyt.gba.gob.ar/bulletins/3025/contents/1409465",
+   "versions": [
+    {
+     "from": "2019-12-21",
+     "units": 3,
+     "source_url": "https://sibom.slyt.gba.gob.ar/bulletins/3025/contents/1409465",
+     "sha256": "4b1c027f0781fed67c0bcda65fcf2666aa09b1b2d68a383d36b47640d42eb09f"
+    }
+   ]
+  },
+  {
+   "slug": "ordenanza-5817-2019",
+   "short": "Ordenanza 5817/2019",
+   "title": "Ordenanza 5817/2019: Aceptase la renuncia del sr. Giovanettoni Miguel Ángel, DNI 12.455.159, a la adjudicación del inmueble designado catastralmente como Circ. III, Secc. D, Ch. 70, Mza. 70 MM-1, Lote 23 de la ciudad de Baradero.",
+   "url": "https://sibom.slyt.gba.gob.ar/bulletins/3028/contents/1410037",
+   "versions": [
+    {
+     "from": "2019-12-22",
+     "units": 6,
+     "source_url": "https://sibom.slyt.gba.gob.ar/bulletins/3028/contents/1410037",
+     "sha256": "5b17f7076802c3840172c476b3ecdbafa8090b7da6fdb2dc223cbe2e0ab0ea5f"
+    }
+   ]
+  },
+  {
+   "slug": "ordenanza-5821-2019",
+   "short": "Ordenanza 5821/2019",
+   "title": "Ordenanza 5821/2019: Condonase la deuda que registra el contribuyente Sr. Cheruse Rubén Marcelo, DNI 8.189.070, Titular registrable del vehículo Marca Suzuki Modelo FUN 1.0 Sedan 3 Ptas., Dominio EUI1007, Año 2005, correspondiente a la cuota",
+   "url": "https://sibom.slyt.gba.gob.ar/bulletins/3028/contents/1410045",
+   "versions": [
+    {
+     "from": "2019-12-22",
+     "units": 4,
+     "source_url": "https://sibom.slyt.gba.gob.ar/bulletins/3028/contents/1410045",
+     "sha256": "7361dd0dc2f14f4026815a1b8cf4ffb53c05925a9948f3a7c30af72b0e92c4d4"
+    }
+   ]
+  },
+  {
+   "slug": "ordenanza-5826-2019",
+   "short": "Ordenanza 5826/2019",
+   "title": "Ordenanza 5826/2019: Condonase la deuda que registra al contribuyente Sra. Varanese Romina, DNI 23.403.894, Titular registrable del vehículo Marca Peugeot, Modelo Partner 1.4 N- Confort, Dominio FOB468, Año 2006, correspondiente al ejercicio",
+   "url": "https://sibom.slyt.gba.gob.ar/bulletins/3028/contents/1410054",
+   "versions": [
+    {
+     "from": "2019-12-22",
+     "units": 4,
+     "source_url": "https://sibom.slyt.gba.gob.ar/bulletins/3028/contents/1410054",
+     "sha256": "131912a28c45f22b163997d48e172f0ada21ef1ec54697283cd21771cfd4d108"
+    }
+   ]
+  },
+  {
+   "slug": "ordenanza-5830-2019",
+   "short": "Ordenanza 5830/2019",
+   "title": "Ordenanza 5830/2019: Condonase la deuda que registra al contribuyente Sr. Pereyra Jorge Alberto, DNI 8.189.177, Titular registrable del vehículo Marca Toyota, Modelo Hilux 4 x 2 Cabina doble DX 2.5 TD, dominio FCO019, Año 2005, correspondien",
+   "url": "https://sibom.slyt.gba.gob.ar/bulletins/3028/contents/1410062",
+   "versions": [
+    {
+     "from": "2019-12-22",
+     "units": 4,
+     "source_url": "https://sibom.slyt.gba.gob.ar/bulletins/3028/contents/1410062",
+     "sha256": "50957515fbfeae418fcb4ba6a6a953a0ed5364e2a6598401dc49af90be11fac2"
+    }
+   ]
+  },
+  {
+   "slug": "ordenanza-5831-2019",
+   "short": "Ordenanza 5831/2019",
+   "title": "Ordenanza 5831/2019: Condonase la deuda que registra al contribuyente Sra. Campodónico Ángela Adriana, DNI 17.480.619, titular registrable del vehículo Marc Chevrolet Modelo Corsa 4P GL 1.7 Dies Base Sedan, Dominio CNZ610, Año 1999, correspo",
+   "url": "https://sibom.slyt.gba.gob.ar/bulletins/3028/contents/1410064",
+   "versions": [
+    {
+     "from": "2019-12-22",
+     "units": 4,
+     "source_url": "https://sibom.slyt.gba.gob.ar/bulletins/3028/contents/1410064",
+     "sha256": "a8f738322bff13b95d8b5881990f70695ac702981b73aff492b26b61b436645d"
+    }
+   ]
+  },
+  {
+   "slug": "ordenanza-5832-2019",
+   "short": "Ordenanza 5832/2019",
+   "title": "Ordenanza 5832/2019: Condonase la deuda que registra al contribuyente Sr. Escobar Ariel Omar, DNI 29.487.830, Titular registrable del vehículo Marca Ford- Modelo Ka Sedan 3 Ptas, Dominio CQX161, Año 1999, correspondiente al ejercicio 2018, e",
+   "url": "https://sibom.slyt.gba.gob.ar/bulletins/3028/contents/1410067",
+   "versions": [
+    {
+     "from": "2019-12-22",
+     "units": 4,
+     "source_url": "https://sibom.slyt.gba.gob.ar/bulletins/3028/contents/1410067",
+     "sha256": "490614d49a48ead4e2ca2b24f034b533ab2dd813fd99f1321974df8271e57837"
+    }
+   ]
+  },
+  {
+   "slug": "ordenanza-5834-2019",
+   "short": "Ordenanza 5834/2019",
+   "title": "Ordenanza 5834/2019: Condonase la deuda que registra el contribuyente Sr. Laghi Carmelo, DNI 8.250.796, Titular registrable del vehículo Marca: Renault Modelo Kangoo Express Generique 1.9 D, Dominio FZY989, Año 2007, correspondiente al ejerc",
+   "url": "https://sibom.slyt.gba.gob.ar/bulletins/3028/contents/1410070",
+   "versions": [
+    {
+     "from": "2019-12-22",
+     "units": 3,
+     "source_url": "https://sibom.slyt.gba.gob.ar/bulletins/3028/contents/1410070",
+     "sha256": "99dc1ccbb65ca22074e7d05250d86a74a19830f52b70620fe9a0a9838e472aeb"
+    }
+   ]
+  },
+  {
+   "slug": "ordenanza-5836-2019",
+   "short": "Ordenanza 5836/2019",
+   "title": "Ordenanza 5836/2019: Autorizase al Departamento Ejecutivo Municipal a transferir con carácter definitivo y gratuito el inmueble designado catastralmente como: Circ. II, Sección B, Qta. 45, Mza. 45c, parte de la Parcela 3, según croquis obran",
+   "url": "https://sibom.slyt.gba.gob.ar/bulletins/3028/contents/1410090",
+   "versions": [
+    {
+     "from": "2019-12-22",
+     "units": 6,
+     "source_url": "https://sibom.slyt.gba.gob.ar/bulletins/3028/contents/1410090",
+     "sha256": "b528a26682140fc310788d141c240d616ac529d8832a386574fcaaf15f26ec0c"
+    }
+   ]
+  },
+  {
+   "slug": "ordenanza-5859-2019",
+   "short": "Ordenanza 5859/2019",
+   "title": "Ordenanza 5859/2019: Condonase la deuda que registra la contribuyente Sra. Viera Aurora Leticia, DNI 13.644.745, titular registrable del vehículo Marca Fiat Modelo DUNA SL 1.6 nuevo Sedan 4 Ptas., dominio TQX825, Año 1992, correspondiente de",
+   "url": "https://sibom.slyt.gba.gob.ar/bulletins/3034/contents/1410466",
+   "versions": [
+    {
+     "from": "2019-12-25",
+     "units": 4,
+     "source_url": "https://sibom.slyt.gba.gob.ar/bulletins/3034/contents/1410466",
+     "sha256": "0693209c0e6faecab9a7f54995ea98deecf4365cc20bf3fe82e3990abcc6ecaf"
+    }
+   ]
+  },
+  {
+   "slug": "ordenanza-5860-2019",
+   "short": "Ordenanza 5860/2019",
+   "title": "Ordenanza 5860/2019: Condonase la deuda que registra la contribuyente Sra. Oliva Walkiria Marta, DNI 5.248.503, Titular registrable del vehículo arca Toyota Modelo Corolla 1.8 XE I- Sedan 4 Ptas., Dominio DDV638, Año 2000, correspondiente al",
+   "url": "https://sibom.slyt.gba.gob.ar/bulletins/3034/contents/1410467",
+   "versions": [
+    {
+     "from": "2019-12-25",
+     "units": 4,
+     "source_url": "https://sibom.slyt.gba.gob.ar/bulletins/3034/contents/1410467",
+     "sha256": "e1010bec369d4fd345b502140acd218f554e5168337384a96d4744929cd69363"
+    }
+   ]
+  },
+  {
+   "slug": "ordenanza-5864-2019",
+   "short": "Ordenanza 5864/2019",
+   "title": "Ordenanza 5864/2019: Condonase la deuda que registra el contribuyente Sr. De Los Santos Juan Humberto, DNI 32.269.576, Titular registrable del vehículo Marca Chevrolet Modelo Corsa Clasicc 3P AA DIR 1.6N – Sedan 3 PTAS. Dominio EQJ230, Año 2",
+   "url": "https://sibom.slyt.gba.gob.ar/bulletins/3034/contents/1410478",
+   "versions": [
+    {
+     "from": "2019-12-25",
+     "units": 4,
+     "source_url": "https://sibom.slyt.gba.gob.ar/bulletins/3034/contents/1410478",
+     "sha256": "40373f21875fc8b494a47af11c7ba569c9f8de69734564178958b33f2e8c2995"
+    }
+   ]
+  },
+  {
+   "slug": "ordenanza-5869-2019",
+   "short": "Ordenanza 5869/2019",
+   "title": "Ordenanza 5869/2019: Reconózcase la deuda que mantiene el Municipio de Baradero con el Proveedor Fioranelli SRL, correspondiente al ejercicio 2018, y autorizase al Departamento Ejecutivo Municipal a efectuar el pago por la suma de pesos dos ",
+   "url": "https://sibom.slyt.gba.gob.ar/bulletins/3034/contents/1410497",
+   "versions": [
+    {
+     "from": "2019-12-25",
+     "units": 5,
+     "source_url": "https://sibom.slyt.gba.gob.ar/bulletins/3034/contents/1410497",
+     "sha256": "4cef14d92521da53d0653756e0661eecd74f67e5a6d6667713f9a6143c84e7b3"
+    }
+   ]
+  },
+  {
+   "slug": "ordenanza-5885-2019",
+   "short": "Ordenanza 5885/2019",
+   "title": "Ordenanza 5885/2019: Condonase la deuda que registra la contribuyente Sra. Cesáreo Verónica, DNI 5.902.010, Titular registrable del vehículo Marca Renault-Modelo Master DCI 120, Dominio FUR410- Año 2006, por los períodos 01/2017 a 03/2018, e",
+   "url": "https://sibom.slyt.gba.gob.ar/bulletins/3038/contents/1411140",
+   "versions": [
+    {
+     "from": "2019-12-25",
+     "units": 4,
+     "source_url": "https://sibom.slyt.gba.gob.ar/bulletins/3038/contents/1411140",
+     "sha256": "453d70b7a647d7dad76db52da27642f48dd9ff0ac37c9668e4e4b9ba042de5a7"
+    }
+   ]
+  },
+  {
+   "slug": "ordenanza-5886-2019",
+   "short": "Ordenanza 5886/2019",
+   "title": "Ordenanza 5886/2019: Condonase la deuda que registra el contribuyente Sr. Ladrón de Guevara Mario Orlando, DNI 4.722.237, Titular registrable del vehículo Marca Toyota Modelo Corolla 1.8 XE 1/200, Sedan 4 Ptas, Dominio DFG133, Año 2000, por ",
+   "url": "https://sibom.slyt.gba.gob.ar/bulletins/3038/contents/1411141",
+   "versions": [
+    {
+     "from": "2019-12-25",
+     "units": 4,
+     "source_url": "https://sibom.slyt.gba.gob.ar/bulletins/3038/contents/1411141",
+     "sha256": "3b301cf334acc1ea7e3f7311c9e287767c2efdac69fc90cd579db40dd9991a3a"
+    }
+   ]
+  },
+  {
+   "slug": "ordenanza-5889-2019",
+   "short": "Ordenanza 5889/2019",
+   "title": "Ordenanza 5889/2019: Aceptase la renuncia presentada por la Sra. Coria Virginia Beatriz, Titular del DNI 37.678.006, a la adjudicación de la tenencia precaria del inmueble designado catastralmente como Circ. III, Secc. D, Ch. 70, Mza, 70ff, ",
+   "url": "https://sibom.slyt.gba.gob.ar/bulletins/3038/contents/1411144",
+   "versions": [
+    {
+     "from": "2019-12-25",
+     "units": 6,
+     "source_url": "https://sibom.slyt.gba.gob.ar/bulletins/3038/contents/1411144",
+     "sha256": "791dfe4aaec1114553d54ed0342e924ca23c08d791e9b63602a8ddc222c802a4"
+    }
+   ]
+  },
+  {
+   "slug": "ordenanza-5893-2019",
+   "short": "Ordenanza 5893/2019",
+   "title": "Ordenanza 5893/2019: Efectuase una excepción a la Ordenanza registrada bajo el Nº 4399-10 en sus artículos 22, respecto a Transferencia de habilitaciones y residencia mínima en el Partido al Sr. Esteve Coixet Tomas, DNI 34.932.955, con el fi",
+   "url": "https://sibom.slyt.gba.gob.ar/bulletins/3050/contents/1411823",
+   "versions": [
+    {
+     "from": "2019-12-26",
+     "units": 3,
+     "source_url": "https://sibom.slyt.gba.gob.ar/bulletins/3050/contents/1411823",
+     "sha256": "1b7f73c3be26844a762943b07ba60f34c7d8db42db741359cdc3ec5b5d9b5d82"
+    }
+   ]
+  },
+  {
+   "slug": "ordenanza-5899-2019",
+   "short": "Ordenanza 5899/2019",
+   "title": "Ordenanza 5899/2019: Reconózcase la deuda que mantiene el Municipio de Baradero con el Proveedor IMCOM Servicios SRL, correspondiente al ejercicio 2018, y autorizase al Departamento Ejecutivo Municipal a efectuar el pago por la suma de $ 31.",
+   "url": "https://sibom.slyt.gba.gob.ar/bulletins/3051/contents/1412576",
+   "versions": [
+    {
+     "from": "2019-12-27",
+     "units": 5,
+     "source_url": "https://sibom.slyt.gba.gob.ar/bulletins/3051/contents/1412576",
+     "sha256": "890db68b13689b195c55681ab85c162cb4159faccdfc40cb5c3790ff143fda1c"
+    }
+   ]
+  },
+  {
+   "slug": "ordenanza-5902-2019",
+   "short": "Ordenanza 5902/2019",
+   "title": "Ordenanza 5902/2019: Autorícese al Departamento Ejecutivo Municipal a efectuar la desafectación definitiva del Patrimonio Municipal de los siguientes bienes registrados como:",
+   "url": "https://sibom.slyt.gba.gob.ar/bulletins/3051/contents/1412579",
+   "versions": [
+    {
+     "from": "2019-12-27",
+     "units": 4,
+     "source_url": "https://sibom.slyt.gba.gob.ar/bulletins/3051/contents/1412579",
+     "sha256": "ed259d45e54ee05356e6f169a7933aab683ec6e121998e74b90660302e34f1f0"
+    }
+   ]
+  },
+  {
+   "slug": "ordenanza-5905-2019",
+   "short": "Ordenanza 5905/2019",
+   "title": "Ordenanza 5905/2019: Prorrogase en todos sus términos y hasta el 30 de diciembre de 2019 la vigencia del Régimen Especial de Regularización de Obligaciones Tributarias Municipales establecido por Ordenanza Nº 5784/2019.",
+   "url": "https://sibom.slyt.gba.gob.ar/bulletins/3051/contents/1412582",
+   "versions": [
+    {
+     "from": "2019-12-27",
+     "units": 3,
+     "source_url": "https://sibom.slyt.gba.gob.ar/bulletins/3051/contents/1412582",
+     "sha256": "3f5d74953cd24358e9390f2efa82e8e7aed403fc39ca6cfcb094bd9e1a7c3805"
+    }
+   ]
+  },
+  {
+   "slug": "ordenanza-5910-2019",
+   "short": "Ordenanza 5910/2019",
+   "title": "Ordenanza 5910/2019: Condonase la deuda que registra la contribuyente Sra. Caso Zulma Teresita, DNI 18.900.265, Titular registrable del vehículo Marca: Fiat Modelo 645 Palio ELX 1.4 8V, sedan 5 Ptas., Dominio GCI737, Año 2007, correspondient",
+   "url": "https://sibom.slyt.gba.gob.ar/bulletins/3051/contents/1412587",
+   "versions": [
+    {
+     "from": "2019-12-27",
+     "units": 4,
+     "source_url": "https://sibom.slyt.gba.gob.ar/bulletins/3051/contents/1412587",
+     "sha256": "00cbdcc9ff7c7072b95a4ed83671e4aa0a0c31504ea9e9ab277623f633593722"
+    }
+   ]
+  },
+  {
+   "slug": "ordenanza-5915-2019",
+   "short": "Ordenanza 5915/2019",
+   "title": "Ordenanza 5915/2019: Autorizase al Departamento Ejecutivo Municipal a suscribir Convenio Específico entre el Municipio de Baradero, representado por la Sra. Intendente Dra. Fernanda C. Antonijevic y la Universidad Nacional de San Martin, rep",
+   "url": "https://sibom.slyt.gba.gob.ar/bulletins/3051/contents/1412592",
+   "versions": [
+    {
+     "from": "2019-12-27",
+     "units": 3,
+     "source_url": "https://sibom.slyt.gba.gob.ar/bulletins/3051/contents/1412592",
+     "sha256": "b22302ee9cec4e848cd8a016114517f0fb1984081041648dba67d2a599941078"
+    }
+   ]
+  },
+  {
+   "slug": "ordenanza-5918-2020",
+   "short": "Ordenanza 5918/2020",
+   "title": "Ordenanza 5918/2020: Reconózcase la deuda que mantiene el Municipio de Baradero con el Proveedor IMA Baradero SRL, correspondiente al ejercicio 2017 y 2018 y autorizase al Departamento Ejecutivo Municipal a efectuar el pago por la suma de pe",
+   "url": "https://sibom.slyt.gba.gob.ar/bulletins/3304/contents/1434139",
+   "versions": [
+    {
+     "from": "2020-03-08",
+     "units": 5,
+     "source_url": "https://sibom.slyt.gba.gob.ar/bulletins/3304/contents/1434139",
+     "sha256": "927a41c72d1b800d9a0900c8ceb824aace8f6f0aee5de678466a80380011877e"
+    }
+   ]
+  },
+  {
+   "slug": "ordenanza-5919-2020",
+   "short": "Ordenanza 5919/2020",
+   "title": "Ordenanza 5919/2020: Convalídese el Convenio Específico suscripto entre el Municipio de Baradero, representado por la Intendente Dra. Fernanda C. Antonijevic y la Facultad de Ciencias Médicas de la UNR, representado por el Sr. Decano Profeso",
+   "url": "https://sibom.slyt.gba.gob.ar/bulletins/3304/contents/1434140",
+   "versions": [
+    {
+     "from": "2020-03-08",
+     "units": 3,
+     "source_url": "https://sibom.slyt.gba.gob.ar/bulletins/3304/contents/1434140",
+     "sha256": "67df9e481429ff3ceea12f085b2d919c15b6a0f6462a06bee74e99e9918b4159"
+    }
+   ]
+  },
+  {
+   "slug": "ordenanza-5966-2021",
+   "short": "Ordenanza 5966/2021",
+   "title": "Ordenanza 5966/2021: Exímase por el ejercicio 2019 al Señor Moscoso Colque Sergio del pago de las tasas municipales que gravan el inmueble de su propiedad, designado catastralmente: Circ. III, Sec. D, Ch. 67, Mza. 67, Parc. 24 de esta ciudad",
+   "url": "https://sibom.slyt.gba.gob.ar/bulletins/4731/contents/1523250",
+   "versions": [
+    {
+     "from": "2021-01-15",
+     "units": 3,
+     "source_url": "https://sibom.slyt.gba.gob.ar/bulletins/4731/contents/1523250",
+     "sha256": "32ea948eaa89f314e241886882af138a93f4e09c9a58069dcbb47d60680ba32f"
+    }
+   ]
+  },
+  {
+   "slug": "ordenanza-5973-2021",
+   "short": "Ordenanza 5973/2021",
+   "title": "Ordenanza 5973/2021: Efectuase una excepción al Art. 13 de la Ordenanza registrada bajo el N° 524/80, correspondiente a la propiedad de la Sra. Marisa Graciela Conlon, Titular del DNI 13.158.078, Nomenclatura Catastral: Circ. II, Secc. A, Qt",
+   "url": "https://sibom.slyt.gba.gob.ar/bulletins/4731/contents/1523347",
+   "versions": [
+    {
+     "from": "2021-01-15",
+     "units": 3,
+     "source_url": "https://sibom.slyt.gba.gob.ar/bulletins/4731/contents/1523347",
+     "sha256": "d9393aee4e6d278cec84bd5020ce28a997c0fadcb8b81bdb7541cf21b7318558"
+    }
+   ]
+  },
+  {
+   "slug": "ordenanza-5976-2021",
+   "short": "Ordenanza 5976/2021",
+   "title": "Ordenanza 5976/2021: Autorizase al Departamento Ejecutivo Municipal a suscribir Contrato de Arrendamiento entre el Municipio de Baradero, representado por el Sr. Intendente Municipal Don Esteban D. Sanzio y el Sr. Álvarez Hernán Alberto, Tit",
+   "url": "https://sibom.slyt.gba.gob.ar/bulletins/4753/contents/1524959",
+   "versions": [
+    {
+     "from": "2021-01-20",
+     "units": 4,
+     "source_url": "https://sibom.slyt.gba.gob.ar/bulletins/4753/contents/1524959",
+     "sha256": "c556c443ce5ed6f0ef36b2861070c9b5a850f60d0bd92cc21983651a16f75418"
+    }
+   ]
+  },
+  {
+   "slug": "ordenanza-5980-2021",
+   "short": "Ordenanza 5980/2021",
+   "title": "Ordenanza 5980/2021: La Municipalidad de Baradero se adhiere a la Ley Provincial N° 14.783 que garantiza la incorporación en una proporción no menor al uno por ciento (1 %) de la totalidad del personal municipal, a personas travestis, transe",
+   "url": "https://sibom.slyt.gba.gob.ar/bulletins/4753/contents/1524963",
+   "versions": [
+    {
+     "from": "2021-01-20",
+     "units": 3,
+     "source_url": "https://sibom.slyt.gba.gob.ar/bulletins/4753/contents/1524963",
+     "sha256": "2f48a2a5b6df5a1e17c1a02cbe23c2304dedd05d6ab282b75fa1da63ec11cf4f"
+    }
+   ]
+  },
+  {
+   "slug": "ordenanza-5981-2021",
+   "short": "Ordenanza 5981/2021",
+   "title": "Ordenanza 5981/2021: Acéptese la donación de un (1) vehículo tipo camioneta, Marca Jeep, Modelo Gran Cherokee, versión Lardo 4x4, caja automática, año de fabricación 2007, carrocería N° 1J8GR48K77C596372, Dominio 7VIR428, estado bueno, efect",
+   "url": "https://sibom.slyt.gba.gob.ar/bulletins/4753/contents/1524964",
+   "versions": [
+    {
+     "from": "2021-01-20",
+     "units": 4,
+     "source_url": "https://sibom.slyt.gba.gob.ar/bulletins/4753/contents/1524964",
+     "sha256": "8ab40a2dda480c06b7657cd804803f4fbc127848674a63933ba6ad1589e975f8"
+    }
+   ]
+  },
+  {
+   "slug": "ordenanza-5982-2021",
+   "short": "Ordenanza 5982/2021",
+   "title": "Ordenanza 5982/2021: Convalídese el Decreto dictado por el Departamento Ejecutivo Municipal, registrado bajo el N° 360/20. Ref.: “Fondo Especial de Emergencia Sanitaria para la contención fiscal municipal”.",
+   "url": "https://sibom.slyt.gba.gob.ar/bulletins/4772/contents/1526651",
+   "versions": [
+    {
+     "from": "2021-02-04",
+     "units": 3,
+     "source_url": "https://sibom.slyt.gba.gob.ar/bulletins/4772/contents/1526651",
+     "sha256": "33aa2cb3b1e8e0ddcea4abeeb560e47238274168515e59288abbda1fd0d9845a"
+    }
+   ]
+  },
+  {
+   "slug": "ordenanza-5984-2021",
+   "short": "Ordenanza 5984/2021",
+   "title": "Ordenanza 5984/2021: Aceptase la renuncia presentada por el Sr. Fidel Antonio Navarro, Titular del DNI 13.079.311, a la adjudicación de la vivienda otorgada oportunamente en el barrio Plan de viviendas para agentes de Policía Comunal designa",
+   "url": "https://sibom.slyt.gba.gob.ar/bulletins/4772/contents/1526653",
+   "versions": [
+    {
+     "from": "2021-02-04",
+     "units": 3,
+     "source_url": "https://sibom.slyt.gba.gob.ar/bulletins/4772/contents/1526653",
+     "sha256": "5ef771d0a7d1eef8e2a3d4a2de6d0583d5dc595f5c94c844fa6443f0c832170a"
+    }
+   ]
+  },
+  {
+   "slug": "ordenanza-5986-2021",
+   "short": "Ordenanza 5986/2021",
+   "title": "Ordenanza 5986/2021: Crease en el Área Rural la Zona Industrial II (ZII), destinada a la radicación de establecimientos industriales, de logística y servicios.",
+   "url": "https://sibom.slyt.gba.gob.ar/bulletins/4772/contents/1526655",
+   "versions": [
+    {
+     "from": "2021-02-04",
+     "units": 9,
+     "source_url": "https://sibom.slyt.gba.gob.ar/bulletins/4772/contents/1526655",
+     "sha256": "83014e6769b986b9c714042d55abb7b6e56187f7681ef311ef61c3f28797a681"
+    }
+   ]
+  },
+  {
+   "slug": "ordenanza-5987-2021",
+   "short": "Ordenanza 5987/2021",
+   "title": "Ordenanza 5987/2021: Apruébese la compensación de excesos y economías sobre el Presupuesto de Gastos 2019, según detalle que se adjunta como Anexo I del presente, el cual consta de 14 (catorce) hojas.",
+   "url": "https://sibom.slyt.gba.gob.ar/bulletins/4772/contents/1526657",
+   "versions": [
+    {
+     "from": "2021-02-04",
+     "units": 4,
+     "source_url": "https://sibom.slyt.gba.gob.ar/bulletins/4772/contents/1526657",
+     "sha256": "c211a3b5a16afb69a6b8842a6e795a3e5d803badcc6ea4900bd94a6bcc21e38c"
+    }
+   ]
+  },
+  {
+   "slug": "ordenanza-5989-2021",
+   "short": "Ordenanza 5989/2021",
+   "title": "Ordenanza 5989/2021: al Departamento EjecutivoMunicipal a otorgar la tenencia precaria del predio designado catastralmente como Circ. III, Secc. D, Ch. 70, Mza. 70 DD2, Lote 2, de la ciudad de Baradero, a favor del Sr. Jorge Luis Galván, Tit",
+   "url": "https://sibom.slyt.gba.gob.ar/bulletins/4976/contents/1545761",
+   "versions": [
+    {
+     "from": "2021-03-10",
+     "units": 5,
+     "source_url": "https://sibom.slyt.gba.gob.ar/bulletins/4976/contents/1545761",
+     "sha256": "d47ba0107d96f1eb111faff3b41ff8c231fb2d732618f0fb96d74063178aa4bd"
+    }
+   ]
+  },
+  {
+   "slug": "ordenanza-5990-2021",
+   "short": "Ordenanza 5990/2021",
+   "title": "Ordenanza 5990/2021: Decretos Municipales N° 197/20, 242/20, 301/20 y 360/20, por los cuales se solicitó las asistencias financieras a la Provincia de Buenos Aires en el marco del “Fondo Especial de Emergencia Sanitaria para la contención Fi",
+   "url": "https://sibom.slyt.gba.gob.ar/bulletins/4976/contents/1545762",
+   "versions": [
+    {
+     "from": "2021-03-10",
+     "units": 9,
+     "source_url": "https://sibom.slyt.gba.gob.ar/bulletins/4976/contents/1545762",
+     "sha256": "be840444781202f50eb51d66f24a1d725fc93cd82555bf46816c0633b080d886"
+    }
+   ]
+  },
+  {
+   "slug": "ordenanza-5991-2021",
+   "short": "Ordenanza 5991/2021",
+   "title": "Ordenanza 5991/2021: Establécese a partir del 1° de septiembre de 2020 para el Partido de Baradero, la siguiente Ordenanza Fiscal.-",
+   "url": "https://sibom.slyt.gba.gob.ar/bulletins/4976/contents/1546366",
+   "versions": [
+    {
+     "from": "2021-03-10",
+     "units": 193,
+     "source_url": "https://sibom.slyt.gba.gob.ar/bulletins/4976/contents/1546366",
+     "sha256": "703214309e65f7ed2168d570e1ed2f162234edc51a28c41d6175754c869a6af4"
+    }
+   ]
+  },
+  {
+   "slug": "ordenanza-5993-2021",
+   "short": "Ordenanza 5993/2021",
+   "title": "Ordenanza 5993/2021: Aceptase la renuncia presentada por el Sr. Cardoso Marcelo Raúl, Titular del DNI 18.441.137, a la adjudicación de la tenencia precaria del inmueble designado catastralmente como Circ. III, Secc. D, ch. 70, Mza. 70 mm2, L",
+   "url": "https://sibom.slyt.gba.gob.ar/bulletins/4976/contents/1546410",
+   "versions": [
+    {
+     "from": "2021-03-10",
+     "units": 6,
+     "source_url": "https://sibom.slyt.gba.gob.ar/bulletins/4976/contents/1546410",
+     "sha256": "7149f85385a87ead5c02e4a35b9c79f78ae4e6368ef108c703a10c6d7df08877"
+    }
+   ]
+  },
+  {
+   "slug": "ordenanza-5998-2021",
+   "short": "Ordenanza 5998/2021",
+   "title": "Ordenanza 5998/2021: Condonase la deuda que registra la contribuyente Sra. Illesca Myriam Viviana, DNI 21.679.540, Cuenta N° 221, por el ejercicio 2017 en concepto de Tasas por limpieza, conservación de la vía pública y servicios sanitarios ",
+   "url": "https://sibom.slyt.gba.gob.ar/bulletins/4976/contents/1546444",
+   "versions": [
+    {
+     "from": "2021-03-10",
+     "units": 5,
+     "source_url": "https://sibom.slyt.gba.gob.ar/bulletins/4976/contents/1546444",
+     "sha256": "65f4f2ec54f9f16877dde5b5994e8d71e9f6bb0564b46b326320dbd18fec876b"
+    }
+   ]
+  },
+  {
+   "slug": "ordenanza-5999-2021",
+   "short": "Ordenanza 5999/2021",
+   "title": "Ordenanza 5999/2021: Crease el Registro Municipal de automóviles y moto vehículos que se encuentren en depósitos municipales o de terceros o causa de infracciones de tránsito o faltas o abandonados en lugares de dominio público, con el fin d",
+   "url": "https://sibom.slyt.gba.gob.ar/bulletins/4976/contents/1546451",
+   "versions": [
+    {
+     "from": "2021-03-10",
+     "units": 5,
+     "source_url": "https://sibom.slyt.gba.gob.ar/bulletins/4976/contents/1546451",
+     "sha256": "27b3f616605045e495e510cb275a457b3c0dcbc0af737d9f9cb6293c41c51ec6"
+    }
+   ]
+  },
+  {
+   "slug": "ordenanza-6008-2021",
+   "short": "Ordenanza 6008/2021",
+   "title": "Ordenanza 6008/2021: Aceptase la renuncia presentada por el Sr. Cvitanich German, Titular del DNI 26.130.115, a la adjudicación de la Vivienda N° 64, otorgada oportunamente en el Barrio Las Barrancas de Baradero 80 viviendas, Barrio Toyota, ",
+   "url": "https://sibom.slyt.gba.gob.ar/bulletins/5095/contents/1556041",
+   "versions": [
+    {
+     "from": "2021-04-07",
+     "units": 5,
+     "source_url": "https://sibom.slyt.gba.gob.ar/bulletins/5095/contents/1556041",
+     "sha256": "a6b14403fad9986e5b62b791cee6ef49b65b8d76a64173b0ffa3c5f0872b97dd"
+    }
+   ]
+  },
+  {
+   "slug": "ordenanza-6010-2021",
+   "short": "Ordenanza 6010/2021",
+   "title": "Ordenanza 6010/2021: Autorizase al Departamento Ejecutivo Municipal a otorgar la tenencia precaria del predio designado catastralmente como Circ. III, Secc. D, Ch 70, Mza.70 mm1, Lote 11, de la ciudad de Baradero, a favor del sr. Solís Ezequ",
+   "url": "https://sibom.slyt.gba.gob.ar/bulletins/5095/contents/1556043",
+   "versions": [
+    {
+     "from": "2021-04-07",
+     "units": 5,
+     "source_url": "https://sibom.slyt.gba.gob.ar/bulletins/5095/contents/1556043",
+     "sha256": "0d6d751e397c35bf72f1ca77b49cda9dd6e0934365e8452de3872972db4e34b6"
+    }
+   ]
+  },
+  {
+   "slug": "ordenanza-6011-2021",
+   "short": "Ordenanza 6011/2021",
+   "title": "Ordenanza 6011/2021: Autorizase al Departamento Ejecutivo Municipal a otorgar la tenencia precaria del predio designado catastralmente como Circ. III, Secc. D, Quinta 67, Mza. 67 t, Parcela 15, de la ciudad de Baradero, a favor del Sr. Auza ",
+   "url": "https://sibom.slyt.gba.gob.ar/bulletins/5095/contents/1556044",
+   "versions": [
+    {
+     "from": "2021-04-07",
+     "units": 5,
+     "source_url": "https://sibom.slyt.gba.gob.ar/bulletins/5095/contents/1556044",
+     "sha256": "51ffda0970f4c87c2866cabc441aff6cc08f75179baa890eb52abd3272be4360"
+    }
+   ]
+  },
+  {
+   "slug": "ordenanza-6013-2021",
+   "short": "Ordenanza 6013/2021",
+   "title": "Ordenanza 6013/2021: Autorizase al Departamento Ejecutivo Municipal a otorgar la tenencia precaria del predio designado catastralmente como Circ. III, Secc. D, Ch 70, Mza. 70 dd1, Lote 6, de la ciudad de Baradero, a favor de la Sra. Olivero ",
+   "url": "https://sibom.slyt.gba.gob.ar/bulletins/5095/contents/1556046",
+   "versions": [
+    {
+     "from": "2021-04-07",
+     "units": 5,
+     "source_url": "https://sibom.slyt.gba.gob.ar/bulletins/5095/contents/1556046",
+     "sha256": "b783beccf24fb468cc85c7f4b958be04a240907a4023cdfe648f54429478d4ac"
+    }
+   ]
+  },
+  {
+   "slug": "ordenanza-6014-2021",
+   "short": "Ordenanza 6014/2021",
+   "title": "Ordenanza 6014/2021: Aceptase la renuncia presentada por la Sra. Sánchez Vanina Elisabeth, Titular del DNI 26.410.320, en calidad de pre adjudicataria del “Programa lotes con servicios” a la adjudicación del terreno individualizado catastral",
+   "url": "https://sibom.slyt.gba.gob.ar/bulletins/5095/contents/1556047",
+   "versions": [
+    {
+     "from": "2021-04-07",
+     "units": 7,
+     "source_url": "https://sibom.slyt.gba.gob.ar/bulletins/5095/contents/1556047",
+     "sha256": "9da49c8a393387be86ba2e1fc3c74efacb0317e24edbd4fdf4155ef832695a07"
+    }
+   ]
+  },
+  {
+   "slug": "ordenanza-6015-2021",
+   "short": "Ordenanza 6015/2021",
+   "title": "Ordenanza 6015/2021: Aceptase la renuncia presentada por la Srta. Aliendro Adriana Analia, Titular del DNI: 35.067.911, en calidad de pre adjudicataria del Programa Lotes con servicios, a la adjudicación del terreno individualizado catastral",
+   "url": "https://sibom.slyt.gba.gob.ar/bulletins/5095/contents/1556048",
+   "versions": [
+    {
+     "from": "2021-04-07",
+     "units": 7,
+     "source_url": "https://sibom.slyt.gba.gob.ar/bulletins/5095/contents/1556048",
+     "sha256": "fd3ed30945ac6a534df95e3e2221bbbd1efb8f554466526ddb4424806fca3280"
+    }
+   ]
+  },
+  {
+   "slug": "ordenanza-6023-2021",
+   "short": "Ordenanza 6023/2021",
+   "title": "Ordenanza 6023/2021: al Departamento Ejecutivo Municipal, representado por el Intendente Municipal a suscribir un convenio con el Ministeriode Desarrollo Social de la Provincia de Buenos Aires, para acceder a becas que acuerda el Ministerio ",
+   "url": "https://sibom.slyt.gba.gob.ar/bulletins/5552/contents/1587616",
+   "versions": [
+    {
+     "from": "2021-07-14",
+     "units": 3,
+     "source_url": "https://sibom.slyt.gba.gob.ar/bulletins/5552/contents/1587616",
+     "sha256": "dfebd54178d7a6e3b83ff78c6764b61a3e6adf89043735b45aa58531ebb659b3"
+    }
+   ]
+  },
+  {
+   "slug": "ordenanza-6024-2021",
+   "short": "Ordenanza 6024/2021",
+   "title": "Ordenanza 6024/2021: al Departamento Ejecutivo Municipal, representado por el Intendente Municipal a suscribir un convenio con el Ministerio de Desarrollo Social de la Provincia de Buenos Aires, para acceder a becas que acuerda el Ministerio",
+   "url": "https://sibom.slyt.gba.gob.ar/bulletins/5552/contents/1587618",
+   "versions": [
+    {
+     "from": "2021-07-14",
+     "units": 3,
+     "source_url": "https://sibom.slyt.gba.gob.ar/bulletins/5552/contents/1587618",
+     "sha256": "554d9959e7384dfd2c8ce193b8813f16c0f391a78cc7846de33710fed5bdd81b"
+    }
+   ]
+  },
+  {
+   "slug": "ordenanza-6025-2021",
+   "short": "Ordenanza 6025/2021",
+   "title": "Ordenanza 6025/2021: al Departamento EjecutivoMunicipal, representado por el Intendentea suscribir convenio con el ministerio de Desarrollo Social de la Provincia de Buenos Aires, para acceder a becas que acuerda el Ministeriocon destino a l",
+   "url": "https://sibom.slyt.gba.gob.ar/bulletins/5552/contents/1587619",
+   "versions": [
+    {
+     "from": "2021-07-14",
+     "units": 3,
+     "source_url": "https://sibom.slyt.gba.gob.ar/bulletins/5552/contents/1587619",
+     "sha256": "8f96a3382859f2b3ac122c64ae932ee73dee73b404c82011460f368b4aef43db"
+    }
+   ]
+  },
+  {
+   "slug": "ordenanza-6027-2022",
+   "short": "Ordenanza 6027/2022",
+   "title": "Ordenanza 6027/2022: Autorizase al Departamento Ejecutivo Municipal a otorgar la tenencia precaria del predio designado catastralmente como: Circ. II, Secc. B, Qta. 58, Fracc. 1, Mza. 58ae, Parcela 11, de la ciudad de Baradero, a favor de la",
+   "url": "https://sibom.slyt.gba.gob.ar/bulletins/5751/contents/1601375",
+   "versions": [
+    {
+     "from": "2022-01-13",
+     "units": 5,
+     "source_url": "https://sibom.slyt.gba.gob.ar/bulletins/5751/contents/1601375",
+     "sha256": "2098febdd0ddbde7eb599a3d8980b25f0bff4fec66a9a5c21b7a01a7f654b770"
+    }
+   ]
+  },
+  {
+   "slug": "ordenanza-6029-2022",
+   "short": "Ordenanza 6029/2022",
+   "title": "Ordenanza 6029/2022: Reconózcase la deuda que mantiene el Municipio de Baradero con el Proveedor Dulbecco Luis y Dulbecco Macarena SH correspondiente al ejercicio 2020 y autorizase al departamento Ejecutivo Municipal a efectuar el pago por l",
+   "url": "https://sibom.slyt.gba.gob.ar/bulletins/5751/contents/1601381",
+   "versions": [
+    {
+     "from": "2022-01-13",
+     "units": 5,
+     "source_url": "https://sibom.slyt.gba.gob.ar/bulletins/5751/contents/1601381",
+     "sha256": "e3280ef40b41964e53240b91effe1aa06a3487afd2c67d23e6e51ff19153d3c5"
+    }
+   ]
+  },
+  {
+   "slug": "ordenanza-6030-2022",
+   "short": "Ordenanza 6030/2022",
+   "title": "Ordenanza 6030/2022: Reconózcase la deuda que mantiene el Municipio de Baradero con el Proveedor Beratung SA correspondiente al ejercicio 2019, y autorizase al Departamento Ejecutivo Municipal a efectuar el pago por la suma de pesos setenta ",
+   "url": "https://sibom.slyt.gba.gob.ar/bulletins/5751/contents/1601385",
+   "versions": [
+    {
+     "from": "2022-01-13",
+     "units": 5,
+     "source_url": "https://sibom.slyt.gba.gob.ar/bulletins/5751/contents/1601385",
+     "sha256": "34c2022c68dcb558a8e6a7412fa34789ce5f4a0311a18d4dc77d294c6401a848"
+    }
+   ]
+  },
+  {
+   "slug": "ordenanza-6036-2022",
+   "short": "Ordenanza 6036/2022",
+   "title": "Ordenanza 6036/2022: Condonase la deuda que registra el Sr. Uviedo Juan Antonio, Titular del DNI 4.750.969, Cuenta 20044750969-7, con domicilio físico en Sáenz N° 1350 de la ciudad de Baradero, con sus correspondientes intereses, que mantien",
+   "url": "https://sibom.slyt.gba.gob.ar/bulletins/5751/contents/1601412",
+   "versions": [
+    {
+     "from": "2022-01-13",
+     "units": 3,
+     "source_url": "https://sibom.slyt.gba.gob.ar/bulletins/5751/contents/1601412",
+     "sha256": "7a6d845c492573ddf3ffd197315054b2622fc0166b2edaf8fc929e81e5a5a812"
+    }
+   ]
+  },
+  {
+   "slug": "ordenanza-6040-2022",
+   "short": "Ordenanza 6040/2022",
+   "title": "Ordenanza 6040/2022: Autorícese el uso del espacio público de la Plaza Constancio Vigil de la localidad de Ireneo Portela por construcción del mural alegórico a la figura del Che Guevara.",
+   "url": "https://sibom.slyt.gba.gob.ar/bulletins/5751/contents/1602099",
+   "versions": [
+    {
+     "from": "2022-01-13",
+     "units": 4,
+     "source_url": "https://sibom.slyt.gba.gob.ar/bulletins/5751/contents/1602099",
+     "sha256": "f2cdc5cce4d458e7ad458f3a54e28c4ccf652acb60877ad6f97bb9de005773e2"
+    }
+   ]
+  },
+  {
+   "slug": "ordenanza-6049-2022",
+   "short": "Ordenanza 6049/2022",
+   "title": "Ordenanza 6049/2022: Autorizase al Departamento Ejecutivo Municipal de la ciudad de Baradero, a adjudicar la Licitación Privada N° 05/2021, para la compra de materiales para obras de cloacas y agua, por la suma total de pesos un millón setec",
+   "url": "https://sibom.slyt.gba.gob.ar/bulletins/7442/contents/1760587",
+   "versions": [
+    {
+     "from": "2022-09-03",
+     "units": 3,
+     "source_url": "https://sibom.slyt.gba.gob.ar/bulletins/7442/contents/1760587",
+     "sha256": "93f6773bcaff081df8fe2e3340bc3ae0f0f54d34139bd90cbb3153681aad488d"
+    }
+   ]
+  },
+  {
+   "slug": "ordenanza-6057-2022",
+   "short": "Ordenanza 6057/2022",
+   "title": "Ordenanza 6057/2022: Autorizase el Departamento Ejecutivo a suscribir Acta Acuerdo llamado a Concurso Nacional de ideas anteproyecto urbano “Ribera y Espacio Público Costero” con el colegio de Arquitectos de la Provincia de Buenos Aires – Di",
+   "url": "https://sibom.slyt.gba.gob.ar/bulletins/7464/contents/1762682",
+   "versions": [
+    {
+     "from": "2022-09-04",
+     "units": 3,
+     "source_url": "https://sibom.slyt.gba.gob.ar/bulletins/7464/contents/1762682",
+     "sha256": "53cf729615c015bb48264cb36edf529bbf7ccc24090fde2c25d0a19d32eac62e"
+    }
+   ]
+  },
+  {
+   "slug": "ordenanza-6058-2022",
+   "short": "Ordenanza 6058/2022",
+   "title": "Ordenanza 6058/2022: Reconózcase la deuda que mantiene el Municipio de Baradero con el Proveedor Fundación Vidas SADIV correspondiente al ejercicio 2020 y autorizase al Departamento Ejecutivo Municipal a efectuar el pago por la suma de pesos",
+   "url": "https://sibom.slyt.gba.gob.ar/bulletins/7464/contents/1762691",
+   "versions": [
+    {
+     "from": "2022-09-04",
+     "units": 5,
+     "source_url": "https://sibom.slyt.gba.gob.ar/bulletins/7464/contents/1762691",
+     "sha256": "ee76dce327a520a257a1db613b1410b2cc1bbdb7e98f7c07bc82cd3fa5ab56dd"
+    }
+   ]
+  },
+  {
+   "slug": "ordenanza-6060-2022",
+   "short": "Ordenanza 6060/2022",
+   "title": "Ordenanza 6060/2022: Autorícese al emplazamiento del Monumento al Gral. Martin Miguel de Güemes en la Plaza Mitre de nuestra ciudad en el sector demarcado en el anexo 1 de la presente, con motivo de celebrarse el Bicentenario de su nacimient",
+   "url": "https://sibom.slyt.gba.gob.ar/bulletins/7464/contents/1762712",
+   "versions": [
+    {
+     "from": "2022-09-04",
+     "units": 3,
+     "source_url": "https://sibom.slyt.gba.gob.ar/bulletins/7464/contents/1762712",
+     "sha256": "563b261c1a39b46a17e1ae69f2d1b66f485887599a70a26753cfa0efe010691d"
+    }
+   ]
+  },
+  {
+   "slug": "ordenanza-6065-2022",
+   "short": "Ordenanza 6065/2022",
+   "title": "Ordenanza 6065/2022: Revocase la adjudicación otorgada al Sr. Velázquez Miguel Ángel, DNI 24.741.091, del inmueble ubicado en Antonio Carranza N° 1301 de la ciudad de Baradero, denominado catastralmente como Circ. II, Secc. B, Qta. 58, Mza. ",
+   "url": "https://sibom.slyt.gba.gob.ar/bulletins/7468/contents/1763187",
+   "versions": [
+    {
+     "from": "2022-09-06",
+     "units": 6,
+     "source_url": "https://sibom.slyt.gba.gob.ar/bulletins/7468/contents/1763187",
+     "sha256": "6251772be6a3dcd129b9399e1077f1216efc10156e4c542d7d99fc6eb7c1ea91"
+    }
+   ]
+  },
+  {
+   "slug": "ordenanza-6070-2022",
+   "short": "Ordenanza 6070/2022",
+   "title": "Ordenanza 6070/2022: Efectuase una excepción a la Ordenanza registrada bajo el N° 1665-94, en su artículo 4°, Inc. 1 y 2, respecto servicios sanitarios, correspondiente al comercio rubro Heladería, cafetería y fabricación de helados, propied",
+   "url": "https://sibom.slyt.gba.gob.ar/bulletins/7468/contents/1763193",
+   "versions": [
+    {
+     "from": "2022-09-06",
+     "units": 4,
+     "source_url": "https://sibom.slyt.gba.gob.ar/bulletins/7468/contents/1763193",
+     "sha256": "2e125f4f24d9b059ca7748a5d012c8c9cef1a41914996dfa1ed7cd6905a96b83"
+    }
+   ]
+  },
+  {
+   "slug": "ordenanza-6074-2022",
+   "short": "Ordenanza 6074/2022",
+   "title": "Ordenanza 6074/2022: Autorizase al Departamento Ejecutivo Municipal a efectuar reserva de espacio público de estacionamiento a la Sra. Arebalo María Lujan, titular del DNI 5.902.121, frente a su domicilio para un solo vehículo, sito en calle",
+   "url": "https://sibom.slyt.gba.gob.ar/bulletins/7468/contents/1763206",
+   "versions": [
+    {
+     "from": "2022-09-06",
+     "units": 5,
+     "source_url": "https://sibom.slyt.gba.gob.ar/bulletins/7468/contents/1763206",
+     "sha256": "dc6fdcb72933145811591c099e3d0af2f765cb2b4fc5fc4df4f7ecb71197a7a4"
+    }
+   ]
+  },
+  {
+   "slug": "ordenanza-6090-2022",
+   "short": "Ordenanza 6090/2022",
+   "title": "Ordenanza 6090/2022: Declarase de Interés Social al Barrio Popular denominado “2 de Septiembre” ubicado sobre Santos Vega, Segundo Sombra, Héroes de Malvinas y Pedro Alonso, denominado catastralmente como Circ. III, Secc. D, Mza. 70 hh. de l",
+   "url": "https://sibom.slyt.gba.gob.ar/bulletins/7476/contents/1763964",
+   "versions": [
+    {
+     "from": "2022-09-07",
+     "units": 4,
+     "source_url": "https://sibom.slyt.gba.gob.ar/bulletins/7476/contents/1763964",
+     "sha256": "5637e3e213c5cf27d294bffa5dd6ce0952a4f1df351670a3eb750aac42c30b52"
+    }
+   ]
+  },
+  {
+   "slug": "ordenanza-6096-2022",
+   "short": "Ordenanza 6096/2022",
+   "title": "Ordenanza 6096/2022: Derogase la Ordenanza registrada bajo el N° 6027-21.",
+   "url": "https://sibom.slyt.gba.gob.ar/bulletins/7483/contents/1764362",
+   "versions": [
+    {
+     "from": "2022-09-08",
+     "units": 5,
+     "source_url": "https://sibom.slyt.gba.gob.ar/bulletins/7483/contents/1764362",
+     "sha256": "0b5e9d6f3b964ce2b67c47d2ffd65d725ea46bbe9b139e2d3c183f9b98e177a8"
+    }
+   ]
+  },
+  {
+   "slug": "ordenanza-7001-2022",
+   "short": "Ordenanza 7001/2022",
+   "title": "Ordenanza 7001/2022: Modifíquese el Art. 1° de la Ordenanza registrada bajo el N° 5973-20, el que quedará redactado de la siguiente manera: “Artículo 1°: Efectuase una excepción al Art. 13 de la Ordenanza registrada bajo el N° 524/80- indica",
+   "url": "https://sibom.slyt.gba.gob.ar/bulletins/7492/contents/1764990",
+   "versions": [
+    {
+     "from": "2022-09-09",
+     "units": 3,
+     "source_url": "https://sibom.slyt.gba.gob.ar/bulletins/7492/contents/1764990",
+     "sha256": "e2bb7c69b99675919e23d710b6c27ff9d2750364945975dab551b434f4c765eb"
+    }
+   ]
+  },
+  {
+   "slug": "ordenanza-7008-2022",
+   "short": "Ordenanza 7008/2022",
+   "title": "Ordenanza 7008/2022: Condonase los recargos que registra la Cuenta N° 3087, por los ejercicios 2016, 2017, 2018, 2019 y 2020, en concepto de tasas por alumbrado, barrido, limpieza, conservación de la vía pública y servicios sanitarios que ma",
+   "url": "https://sibom.slyt.gba.gob.ar/bulletins/7492/contents/1765027",
+   "versions": [
+    {
+     "from": "2022-09-09",
+     "units": 5,
+     "source_url": "https://sibom.slyt.gba.gob.ar/bulletins/7492/contents/1765027",
+     "sha256": "863e2257f536a683b2e4d03961f08b1d6677f0b194c533ca3b553bf3123620ea"
+    }
+   ]
+  },
+  {
+   "slug": "ordenanza-7011-2022",
+   "short": "Ordenanza 7011/2022",
+   "title": "Ordenanza 7011/2022: Autorizase al Departamento Ejecutivo Municipal a adjudicar a “Delta Constructora SA”, con domicilio legal en Beltrán N° 536 – Mendoza capital, la Licitación Pública N° 13/2021, para la Obra Construcción de un Centro de D",
+   "url": "https://sibom.slyt.gba.gob.ar/bulletins/7499/contents/1765853",
+   "versions": [
+    {
+     "from": "2022-09-10",
+     "units": 3,
+     "source_url": "https://sibom.slyt.gba.gob.ar/bulletins/7499/contents/1765853",
+     "sha256": "9782df3a16bb81d645bc36544626b9af924e34669509fb79c4a0f220caaf58a9"
+    }
+   ]
+  },
+  {
+   "slug": "ordenanza-7021-2022",
+   "short": "Ordenanza 7021/2022",
+   "title": "Ordenanza 7021/2022: De acuerdo a lo establecido en la Ordenanza Fiscal, fíjese para su percepción en el presente ejercicio, con vigencia a partir del 1ro. de enero y hasta el 31 de diciembre del año 2022 las tasas, derechos y otros gravámen",
+   "url": "https://sibom.slyt.gba.gob.ar/bulletins/7521/contents/1767924",
+   "versions": [
+    {
+     "from": "2022-09-16",
+     "units": 43,
+     "source_url": "https://sibom.slyt.gba.gob.ar/bulletins/7521/contents/1767924",
+     "sha256": "1e57bc7f65c1439d4f0369a8f12cf97f943308bd3e95d0b2028960d5ea7ed03e"
+    }
+   ]
+  },
+  {
+   "slug": "ordenanza-7028-2022",
+   "short": "Ordenanza 7028/2022",
+   "title": "Ordenanza 7028/2022: Autorizase al Departamento Ejecutivo Municipal a efectuar reserva de espacio público de estacionamiento al Sr. Quiroga Roberto José, Titular del DNI 22.661.877, frente a su domicilio en la acera impar y para un solo vehí",
+   "url": "https://sibom.slyt.gba.gob.ar/bulletins/7531/contents/1769262",
+   "versions": [
+    {
+     "from": "2022-09-18",
+     "units": 5,
+     "source_url": "https://sibom.slyt.gba.gob.ar/bulletins/7531/contents/1769262",
+     "sha256": "5d690364165402967a58ad75b4694532c3d99a767cb084785372802266d75019"
+    }
+   ]
+  },
+  {
+   "slug": "ordenanza-7033-2022",
+   "short": "Ordenanza 7033/2022",
+   "title": "Ordenanza 7033/2022: Ratifíquese el Convenio suscripto entre el Ministerio de Infraestructura y Servicios Públicos de la Provincia de Buenos Aires, representada en este acto por el Sr. Ministro Simone Agustín Pablo DNI 26.474.221, con domici",
+   "url": "https://sibom.slyt.gba.gob.ar/bulletins/7531/contents/1769276",
+   "versions": [
+    {
+     "from": "2022-09-18",
+     "units": 3,
+     "source_url": "https://sibom.slyt.gba.gob.ar/bulletins/7531/contents/1769276",
+     "sha256": "6d54ad649a349f4a5c26f9e5bdf747c4c826ee357c4f03d6ccf14d9627f98716"
+    }
+   ]
+  },
+  {
+   "slug": "ordenanza-7039-2022",
+   "short": "Ordenanza 7039/2022",
+   "title": "Ordenanza 7039/2022: Condonase la deuda que registra el contribuyente Sr. Calva Lucas Ezequiel, Cuenta N° 5562, por los ejercicios 03/2019 a 12/2019, 2020 y 2021 en concepto de Tasas Seguridad e Higiene, y sus correspondientes recargos que m",
+   "url": "https://sibom.slyt.gba.gob.ar/bulletins/7546/contents/1770467",
+   "versions": [
+    {
+     "from": "2022-09-21",
+     "units": 4,
+     "source_url": "https://sibom.slyt.gba.gob.ar/bulletins/7546/contents/1770467",
+     "sha256": "904df1e089f5bc6f4f448388d2e8f161861e9c26e3dd8fbaab3aad8b8c53f527"
+    }
+   ]
+  },
+  {
+   "slug": "ordenanza-7042-2022",
+   "short": "Ordenanza 7042/2022",
+   "title": "Ordenanza 7042/2022: Autorizase al Departamento Ejecutivo Municipal de la ciudad de Baradero, a adjudicar la Licitación Pública N° 2/2022, para la adquisición de 3.400 toneladas de escoria de alto horno 10/30, por la suma total de pesos diez",
+   "url": "https://sibom.slyt.gba.gob.ar/bulletins/7546/contents/1770488",
+   "versions": [
+    {
+     "from": "2022-09-21",
+     "units": 3,
+     "source_url": "https://sibom.slyt.gba.gob.ar/bulletins/7546/contents/1770488",
+     "sha256": "aedd043b5ad8c19416b696cb57684179ddaf4530c8febab058319c394a00aedf"
+    }
+   ]
+  },
+  {
+   "slug": "ordenanza-7043-2022",
+   "short": "Ordenanza 7043/2022",
+   "title": "Ordenanza 7043/2022: Declarase en el ámbito de la ciudad de Baradero, al año 2022 “AÑO DEL 40 ANIVERSARIO DE LA GUERRA DE MALVINAS EN HOMENAJE A LOS VETERANO Y CAIDOS EN LA DEFENSA DE LAS ISLAS MALVINAS Y EL ATLANTICO SUR”.",
+   "url": "https://sibom.slyt.gba.gob.ar/bulletins/7546/contents/1770494",
+   "versions": [
+    {
+     "from": "2022-09-21",
+     "units": 4,
+     "source_url": "https://sibom.slyt.gba.gob.ar/bulletins/7546/contents/1770494",
+     "sha256": "e081800db3e10f589674c88d444796d3168175bb6094eb8c672dc5f0141fc237"
+    }
+   ]
+  },
+  {
+   "slug": "ordenanza-7047-2022",
+   "short": "Ordenanza 7047/2022",
+   "title": "Ordenanza 7047/2022: al Departamento Ejecutivo Municipal a efectuar reserva exclusiva de espacio público para ascenso y descenso de pacientes, frente al Sanatorio SAMI Baradero, sobre margen derecho en calle René Simón N° 910 de la ciudad de",
+   "url": "https://sibom.slyt.gba.gob.ar/bulletins/7554/contents/1771388",
+   "versions": [
+    {
+     "from": "2022-09-24",
+     "units": 4,
+     "source_url": "https://sibom.slyt.gba.gob.ar/bulletins/7554/contents/1771388",
+     "sha256": "9ead07b0975c3a75c5ba1424792d2dc44afb50846a16f65d4fd64cd9b10a9980"
+    }
+   ]
+  },
+  {
+   "slug": "ordenanza-7054-2022",
+   "short": "Ordenanza 7054/2022",
+   "title": "Ordenanza 7054/2022: Efectuase una excepción a la Ordenanza registrada bajo el N° 1665-94, en su artículo 4°- Incisos 1 y 2, respecto a Servicios Sanitarios, correspondiente al comercio rubro “Cafetería”, propiedad de la Sra. Umeres Ana Clar",
+   "url": "https://sibom.slyt.gba.gob.ar/bulletins/7554/contents/1771439",
+   "versions": [
+    {
+     "from": "2022-09-24",
+     "units": 4,
+     "source_url": "https://sibom.slyt.gba.gob.ar/bulletins/7554/contents/1771439",
+     "sha256": "c504fd30b30a0546aed1aca699ec035ea5fde85e14218e4a4dbedff2852e7da5"
+    }
+   ]
+  },
+  {
+   "slug": "ordenanza-7061-2022",
+   "short": "Ordenanza 7061/2022",
+   "title": "Ordenanza 7061/2022: Autorizase al Departamento Ejecutivo Municipal a efectuar reserva de espacio público frente al Edificio del Club Atlético Baradero, Personería Jurídica N° 2725, sito en calle Avda. San Martín N° 857 de la ciudad de Barad",
+   "url": "https://sibom.slyt.gba.gob.ar/bulletins/7570/contents/1775430",
+   "versions": [
+    {
+     "from": "2022-09-28",
+     "units": 5,
+     "source_url": "https://sibom.slyt.gba.gob.ar/bulletins/7570/contents/1775430",
+     "sha256": "490fe4488e17913680bf92b6d1596da40d9ce74cf98df1d9798cc9d32b40a4a1"
+    }
+   ]
+  },
+  {
+   "slug": "ordenanza-7063-2022",
+   "short": "Ordenanza 7063/2022",
+   "title": "Ordenanza 7063/2022: Establecese un Régimen Especial de Regularización de Obligaciones Tributarias Municipales devengadas hasta los 60 días anteriores a la realización del plan de pago respectivo, destinado a contribuyentes y responsables pa",
+   "url": "https://sibom.slyt.gba.gob.ar/bulletins/7570/contents/1775435",
+   "versions": [
+    {
+     "from": "2022-09-28",
+     "units": 20,
+     "source_url": "https://sibom.slyt.gba.gob.ar/bulletins/7570/contents/1775435",
+     "sha256": "fdcab4d22b2d166aa4c5ef6e4249ba3a56b0c083c157e0132d191a8a760c4b6d"
+    }
+   ]
+  },
+  {
+   "slug": "ordenanza-7066-2022",
+   "short": "Ordenanza 7066/2022",
+   "title": "Ordenanza 7066/2022: Convalidar el convenio firmado con el Ministerio de Infraestructura y Servicios Públicos de la Provincia que se encuentra anexado a fs. 2 y 3 del presente expediente.",
+   "url": "https://sibom.slyt.gba.gob.ar/bulletins/7687/contents/1786171",
+   "versions": [
+    {
+     "from": "2022-10-26",
+     "units": 4,
+     "source_url": "https://sibom.slyt.gba.gob.ar/bulletins/7687/contents/1786171",
+     "sha256": "7e1023fe7cef894970780e55a3f26d3b3985b4525bbde9f41332cc72c47e4cbd"
+    }
+   ]
+  },
+  {
+   "slug": "ordenanza-7067-2022",
+   "short": "Ordenanza 7067/2022",
+   "title": "Ordenanza 7067/2022: Exímase por el ejercicio 2022 del pago de las tasas por limpieza, conservación de la vía pública y servicios sanitarios, el valor equivalente del uno por ciento equivalente del uno por ciento (1 %) correspondiente al sue",
+   "url": "https://sibom.slyt.gba.gob.ar/bulletins/7687/contents/1786177",
+   "versions": [
+    {
+     "from": "2022-10-26",
+     "units": 4,
+     "source_url": "https://sibom.slyt.gba.gob.ar/bulletins/7687/contents/1786177",
+     "sha256": "59e8e379206551eba02987796dde04ad1813e758d6c0499c3b9f3b2c18ca014e"
+    }
+   ]
+  },
+  {
+   "slug": "ordenanza-7081-2023",
+   "short": "Ordenanza 7081/2023",
+   "title": "Ordenanza 7081/2023: Ratifíquese el Convenio suscripto entre el Ministerio de Infraestructura y Servicios Públicos de la Provincia de Buenos Aires, representada en este acto por el Sr. Ministro Nardini Leonardo Javier, DNI 28.108.022, con do",
+   "url": "https://sibom.slyt.gba.gob.ar/bulletins/7771/contents/1795572",
+   "versions": [
+    {
+     "from": "2023-01-11",
+     "units": 3,
+     "source_url": "https://sibom.slyt.gba.gob.ar/bulletins/7771/contents/1795572",
+     "sha256": "44cb727b93e7f08b410d984f6c6834c520639c3e47191de305f5e661157f5007"
+    }
+   ]
+  },
+  {
+   "slug": "ordenanza-7086-2023",
+   "short": "Ordenanza 7086/2023",
+   "title": "Ordenanza 7086/2023: Aceptase la renuncia presentada por el Sr. Moreira Iván Nicolás, Titular del DNI 34.044.256 a la adjudicación otorgada oportunamente, del inmueble designado catastralmente como Circ. III, Secc. D, Chacra 67, Mza. 67h, Pa",
+   "url": "https://sibom.slyt.gba.gob.ar/bulletins/7771/contents/1795596",
+   "versions": [
+    {
+     "from": "2023-01-11",
+     "units": 6,
+     "source_url": "https://sibom.slyt.gba.gob.ar/bulletins/7771/contents/1795596",
+     "sha256": "d8db55871a650825a2f3bc0d77db2b943c601942b19d6676b17f6360008ff3c2"
+    }
+   ]
+  },
+  {
+   "slug": "ordenanza-7089-2023",
+   "short": "Ordenanza 7089/2023",
+   "title": "Ordenanza 7089/2023: Adhiérase la Municipalidad de Baradero a la Ley Nacional Nº 27424 y a _________la Ley Provincial Nº 15325 Régimen de fomento a la generación de energía renovable integrada a la red eléctrica pública.",
+   "url": "https://sibom.slyt.gba.gob.ar/bulletins/7771/contents/1795719",
+   "versions": [
+    {
+     "from": "2023-01-11",
+     "units": 4,
+     "source_url": "https://sibom.slyt.gba.gob.ar/bulletins/7771/contents/1795719",
+     "sha256": "6bce1c8a77682c42825d08c41c2dfa1f05a80c536ae47d080b37b3d2f8cb4b12"
+    }
+   ]
+  },
+  {
+   "slug": "ordenanza-7090-2023",
+   "short": "Ordenanza 7090/2023",
+   "title": "Ordenanza 7090/2023: Reconózcase la deuda que mantiene el Municipio de Baradero con el Proveedor IMA Baradero SRL, correspondiente al ejercicio 2020 y autorizase al Departamento Ejecutivo Municipal a efectuar el pago por la suma de pesos dos",
+   "url": "https://sibom.slyt.gba.gob.ar/bulletins/8227/contents/1835671",
+   "versions": [
+    {
+     "from": "2023-02-12",
+     "units": 5,
+     "source_url": "https://sibom.slyt.gba.gob.ar/bulletins/8227/contents/1835671",
+     "sha256": "3e62274c9c524cbb3eaab6a104f2ba4c2db52d3eb6f56e7eb2149da39c001731"
+    }
+   ]
+  },
+  {
+   "slug": "ordenanza-7107-2023",
+   "short": "Ordenanza 7107/2023",
+   "title": "Ordenanza 7107/2023: Exímase parcialmente del pago de los Derechos por espectáculos públicos, Artículo 23, Inc. B de la Ordenanza Impositiva 7026/02 a la Productora Concierto Talento SA, representado por el Sr. José D. Palazzo, correspondien",
+   "url": "https://sibom.slyt.gba.gob.ar/bulletins/8282/contents/1839877",
+   "versions": [
+    {
+     "from": "2023-02-23",
+     "units": 4,
+     "source_url": "https://sibom.slyt.gba.gob.ar/bulletins/8282/contents/1839877",
+     "sha256": "a2e36dd5246a1f1d4ff6112ea7b69712560ccbd7c9f1b162f92326adf2e7fc36"
+    }
+   ]
+  },
+  {
+   "slug": "ordenanza-7111-2023",
+   "short": "Ordenanza 7111/2023",
+   "title": "Ordenanza 7111/2023: Exímase la Tasa Servicios asistenciales por los servicios prestados por el Hogar de Ancianos San José al Sr. Acosta Julio Oscar, DNI: 12.455.254, correspondiente al ejercicio 2022.",
+   "url": "https://sibom.slyt.gba.gob.ar/bulletins/8282/contents/1839915",
+   "versions": [
+    {
+     "from": "2023-02-23",
+     "units": 4,
+     "source_url": "https://sibom.slyt.gba.gob.ar/bulletins/8282/contents/1839915",
+     "sha256": "2bbcdea80a2e02b152b11fdd87c009bbc0b692b093c3b5bbd9605de8a52791b9"
+    }
+   ]
+  },
+  {
+   "slug": "ordenanza-7114-2023",
+   "short": "Ordenanza 7114/2023",
+   "title": "Ordenanza 7114/2023: Autorizase al departamento Ejecutivo Municipal de la ciudad de Baradero, a adjudicar la Licitación Privada N° 10/2022 MEJORAMIENTO CENTRAL CALLE ANCHORENA, por la suma total de pesos cinco millones ochocientos treinta y ",
+   "url": "https://sibom.slyt.gba.gob.ar/bulletins/8282/contents/1839939",
+   "versions": [
+    {
+     "from": "2023-02-23",
+     "units": 3,
+     "source_url": "https://sibom.slyt.gba.gob.ar/bulletins/8282/contents/1839939",
+     "sha256": "f981f1cebb6e8054b4638b1e93483fa677195b34af38a9a359c5c3652202d259"
+    }
+   ]
+  },
+  {
+   "slug": "ordenanza-7116-2023",
+   "short": "Ordenanza 7116/2023",
+   "title": "Ordenanza 7116/2023: Autorizase al Departamento Ejecutivo Municipal a efectuar reserva de espacio público de estacionamiento a la Sra. Gussoni María José, Titular del DNI 22.214.066, frente a su domicilio sobre calle Libertad inmediatamente ",
+   "url": "https://sibom.slyt.gba.gob.ar/bulletins/8293/contents/1841587",
+   "versions": [
+    {
+     "from": "2023-02-25",
+     "units": 5,
+     "source_url": "https://sibom.slyt.gba.gob.ar/bulletins/8293/contents/1841587",
+     "sha256": "a6658db275352686c395e46e14cae0d9a34989328477353c47824b213a747d1f"
+    }
+   ]
+  },
+  {
+   "slug": "ordenanza-7118-2023",
+   "short": "Ordenanza 7118/2023",
+   "title": "Ordenanza 7118/2023: Condonase a la Sra. María Cristina Fitzsimons por la deuda que registra de los ejercicios sito en Lavalle 237, de nuestra ciudad, Cuenta 4443.",
+   "url": "https://sibom.slyt.gba.gob.ar/bulletins/8293/contents/1841597",
+   "versions": [
+    {
+     "from": "2023-02-25",
+     "units": 5,
+     "source_url": "https://sibom.slyt.gba.gob.ar/bulletins/8293/contents/1841597",
+     "sha256": "4a1ec886e647491f53a61c4db57f4bfb7ca1bb969cce6d49cb2bea55adfc5d44"
+    }
+   ]
+  },
+  {
+   "slug": "ordenanza-7119-2023",
+   "short": "Ordenanza 7119/2023",
+   "title": "Ordenanza 7119/2023: Autorizase al Departamento Ejecutivo Municipal de la ciudad de Baradero, a adjudicar la Licitación Pública N° 21/2022, para la compra de materiales destinada a la obra Mejoramiento Red vial Urbana Barrio La Igualdad, 2 d",
+   "url": "https://sibom.slyt.gba.gob.ar/bulletins/8293/contents/1841598",
+   "versions": [
+    {
+     "from": "2023-02-25",
+     "units": 3,
+     "source_url": "https://sibom.slyt.gba.gob.ar/bulletins/8293/contents/1841598",
+     "sha256": "d6df73943c4e04faabb2ef3a8cf7ed1d83ef96aab34696ae4d9408ce7e2f4e02"
+    }
+   ]
+  },
+  {
+   "slug": "ordenanza-7127-2023",
+   "short": "Ordenanza 7127/2023",
+   "title": "Ordenanza 7127/2023: Reconózcase la deuda que mantiene el Municipio de Baradero",
+   "url": "https://sibom.slyt.gba.gob.ar/bulletins/8550/contents/1863857",
+   "versions": [
+    {
+     "from": "2023-04-27",
+     "units": 5,
+     "source_url": "https://sibom.slyt.gba.gob.ar/bulletins/8550/contents/1863857",
+     "sha256": "2e577e9ec74c6839d13a785b99d063e02b401994283c937f78f1f54afc708509"
+    }
+   ]
+  },
+  {
+   "slug": "ordenanza-7141-2023",
+   "short": "Ordenanza 7141/2023",
+   "title": "Ordenanza 7141/2023: Aceptase la renuncia presentada por el Sr. Medina Sergio",
+   "url": "https://sibom.slyt.gba.gob.ar/bulletins/8550/contents/1863915",
+   "versions": [
+    {
+     "from": "2023-04-27",
+     "units": 4,
+     "source_url": "https://sibom.slyt.gba.gob.ar/bulletins/8550/contents/1863915",
+     "sha256": "e79076173e99e896a21fc43e7f5123c0ad7b4678334ff42a3600ac1c13f6cd3d"
+    }
+   ]
+  },
+  {
+   "slug": "ordenanza-7142-2023",
+   "short": "Ordenanza 7142/2023",
+   "title": "Ordenanza 7142/2023: Aceptase la renuncia presentada por la Sra. Puqui Anze Nani,",
+   "url": "https://sibom.slyt.gba.gob.ar/bulletins/8550/contents/1863917",
+   "versions": [
+    {
+     "from": "2023-04-27",
+     "units": 6,
+     "source_url": "https://sibom.slyt.gba.gob.ar/bulletins/8550/contents/1863917",
+     "sha256": "3fa1152c0e8d7b7e4a71413c4cc6ea887600d1b4c491c6c30e234691691dd87b"
+    }
+   ]
+  },
+  {
+   "slug": "ordenanza-7144-2023",
+   "short": "Ordenanza 7144/2023",
+   "title": "Ordenanza 7144/2023: La presente Ordenanza regirá el procedimiento a aplicar del",
+   "url": "https://sibom.slyt.gba.gob.ar/bulletins/8550/contents/1863923",
+   "versions": [
+    {
+     "from": "2023-04-27",
+     "units": 10,
+     "source_url": "https://sibom.slyt.gba.gob.ar/bulletins/8550/contents/1863923",
+     "sha256": "ae66bd826909d596381aeb76d44c6944e8041d60273bb11928114cac6b10f08f"
+    }
+   ]
+  },
+  {
+   "slug": "ordenanza-7148-2023",
+   "short": "Ordenanza 7148/2023",
+   "title": "Ordenanza 7148/2023: Crease la Campaña “Hora Silenciosa Baradero” para los",
+   "url": "https://sibom.slyt.gba.gob.ar/bulletins/8550/contents/1863987",
+   "versions": [
+    {
+     "from": "2023-04-27",
+     "units": 6,
+     "source_url": "https://sibom.slyt.gba.gob.ar/bulletins/8550/contents/1863987",
+     "sha256": "4ebf46019c35c45affd4e7451f93e1c8b4424382d3a0d78c0dd8aea3bc680296"
+    }
+   ]
+  },
+  {
+   "slug": "ordenanza-7166-2023",
+   "short": "Ordenanza 7166/2023",
+   "title": "Ordenanza 7166/2023: Aceptase la renuncia presentada por la Sra. Vera María Ester, titular del DNI 11.211.895, a la adjudicación otorgada oportunamente del inmueble designado catastralmente como Circ. X, parte de la Parcela 1063, Vivienda N°",
+   "url": "https://sibom.slyt.gba.gob.ar/bulletins/9149/contents/1919046",
+   "versions": [
+    {
+     "from": "2023-08-06",
+     "units": 3,
+     "source_url": "https://sibom.slyt.gba.gob.ar/bulletins/9149/contents/1919046",
+     "sha256": "3159955f05bfe072d04ed592968446e4d395c5577f904c49abbcf75c6a4be629"
+    }
+   ]
+  },
+  {
+   "slug": "ordenanza-7173-2023",
+   "short": "Ordenanza 7173/2023",
+   "title": "Ordenanza 7173/2023: Condonase la deuda devengada que registra la Institución sin fines de lucro-Agrupación Recreativa de Jubilados y Pensionados de la ciudad de Baradero, sito en Lino Piñeiro N°660 de la homónima ciudad, Cuenta N°4013, por ",
+   "url": "https://sibom.slyt.gba.gob.ar/bulletins/9149/contents/1919065",
+   "versions": [
+    {
+     "from": "2023-08-06",
+     "units": 5,
+     "source_url": "https://sibom.slyt.gba.gob.ar/bulletins/9149/contents/1919065",
+     "sha256": "ddb55cea7cbc79144c2128e96427906a56d0aa7f3cb78573d88223042ca7feea"
+    }
+   ]
+  },
+  {
+   "slug": "ordenanza-7256-2024",
+   "short": "Ordenanza 7256/2024",
+   "title": "Ordenanza 7256/2024: Reconózcase la deuda que mantiene el Municipio de Baradero con el Proveedor (8982) Nueva Era Rosario SRL correspondiente al ejercicio 2022, y autorizase al Departamento Ejecutivo Municipal a efectuar el pago total por la",
+   "url": "https://sibom.slyt.gba.gob.ar/bulletins/10796/contents/2066077",
+   "versions": [
+    {
+     "from": "2024-06-20",
+     "units": 5,
+     "source_url": "https://sibom.slyt.gba.gob.ar/bulletins/10796/contents/2066077",
+     "sha256": "5a91060dc310337ddaffe93a2fadd5b04c6a8372e05d29faaf2fedbfc02d753f"
+    }
+   ]
+  },
+  {
+   "slug": "ordenanza-7261-2024",
+   "short": "Ordenanza 7261/2024",
+   "title": "Ordenanza 7261/2024: Condonase la deuda devengada que registra la contribuyente Sra. Chapuis María de las Mercedes, DNI 24.536.642, SEDAN 5PTAS, Dominio FUP552, Año 2006, correspondiente al ejercicio del año 2022, en concepto de pago del Imp",
+   "url": "https://sibom.slyt.gba.gob.ar/bulletins/10796/contents/2066082",
+   "versions": [
+    {
+     "from": "2024-06-20",
+     "units": 4,
+     "source_url": "https://sibom.slyt.gba.gob.ar/bulletins/10796/contents/2066082",
+     "sha256": "ad64b196b8d695f0a032b7974367ee00439b1e1a99781084a3be6db14a044f02"
+    }
+   ]
+  },
+  {
+   "slug": "ordenanza-7273-2024",
+   "short": "Ordenanza 7273/2024",
+   "title": "Ordenanza 7273/2024: Autorizase al Departamento Ejecutivo Municipal a transferir en forma gratuita y definitiva al Sr. Vieyra Juan Carlos, titular del DNI 11.211.916, casado en primeras nupcias con la Sra. Manicler Patricia Inés DNI 14.491.0",
+   "url": "https://sibom.slyt.gba.gob.ar/bulletins/10962/contents/2079039",
+   "versions": [
+    {
+     "from": "2024-07-26",
+     "units": 4,
+     "source_url": "https://sibom.slyt.gba.gob.ar/bulletins/10962/contents/2079039",
+     "sha256": "80ec77ca3a7f00f69c11c22ca204ab078291f759856fb0a776b6c504dc78c6b7"
+    }
+   ]
+  },
+  {
+   "slug": "ordenanza-7286-2024",
+   "short": "Ordenanza 7286/2024",
+   "title": "Ordenanza 7286/2024: Autorizase al Departamento Ejecutivo Municipal a efectuar reserva de espacio público de estacionamiento al Sr. Trelles Javier Gonzalo, titular del 24.403.636, frente a su domicilio en la acera par y para un solo vehículo",
+   "url": "https://sibom.slyt.gba.gob.ar/bulletins/11347/contents/2108221",
+   "versions": [
+    {
+     "from": "2024-11-24",
+     "units": 6,
+     "source_url": "https://sibom.slyt.gba.gob.ar/bulletins/11347/contents/2108221",
+     "sha256": "af106ff5184e64ce8bbf7f97401d0550dfd1aa18a85a78f07ed94180593e6425"
+    }
+   ]
+  },
+  {
+   "slug": "ordenanza-7290-2024",
+   "short": "Ordenanza 7290/2024",
+   "title": "Ordenanza 7290/2024: Exímase a los Sres. Vietes José Manuel y María Verónica Cochetti del pago de los Derechos de visado del plano de mensura fijados en la Ordenanza General Impositiva, correspondiente al inmueble denominado catastralmente C",
+   "url": "https://sibom.slyt.gba.gob.ar/bulletins/11347/contents/2108356",
+   "versions": [
+    {
+     "from": "2024-11-24",
+     "units": 5,
+     "source_url": "https://sibom.slyt.gba.gob.ar/bulletins/11347/contents/2108356",
+     "sha256": "695b9963cc0bffe8870b800708254f6ca27cbd0668c2cb0983fb01393c1c4d65"
+    }
+   ]
+  },
+  {
+   "slug": "ordenanza-7291-2024",
+   "short": "Ordenanza 7291/2024",
+   "title": "Ordenanza 7291/2024: Condonase la deuda que registra la Asociación Ayuda Mutua entre Ferroviarios Activos y Jubilados Baradero, Cuenta Nro. 678 por los ejercicios 2018, 2019, 2020, 2021, 2022 y 2023 en concepto SH - Inspección de Seguridad e",
+   "url": "https://sibom.slyt.gba.gob.ar/bulletins/11699/contents/2134438",
+   "versions": [
+    {
+     "from": "2024-11-24",
+     "units": 5,
+     "source_url": "https://sibom.slyt.gba.gob.ar/bulletins/11699/contents/2134438",
+     "sha256": "8f98d56debc38ccdb30c8d318e769126059eeb2d2cbb3e9bec7ff5416f307c75"
+    }
+   ]
+  },
+  {
+   "slug": "ordenanza-7311-2024",
+   "short": "Ordenanza 7311/2024",
+   "title": "Ordenanza 7311/2024: Exímase al Sr. Lavanchy José Enrique, titular DNI 4.741.673, del pago de las Tasas por Alumbrad, Barrido, Limpieza, Conservación de la Vía Pública y Servicios Sanitarios por el ejercicio 2024.",
+   "url": "https://sibom.slyt.gba.gob.ar/bulletins/11894/contents/2148892",
+   "versions": [
+    {
+     "from": "2024-12-26",
+     "units": 6,
+     "source_url": "https://sibom.slyt.gba.gob.ar/bulletins/11894/contents/2148892",
+     "sha256": "cb6617ede1fbc4d25caa35cba55d74d488aea9f368a9444737d18f47978d441d"
+    }
+   ]
+  },
+  {
+   "slug": "ordenanza-7314-2024",
+   "short": "Ordenanza 7314/2024",
+   "title": "Ordenanza 7314/2024: Aceptase la renuncia del Sr. Gómez Julio Cesar, DNI 10.673.707 a la adjudicación del lote vivienda designada catastralmente como Cir. III, Secc. D, CH 70, Mza. 70 mm1, Parc. 17, sito en calle Héroes de Malvinas Nro. 1744",
+   "url": "https://sibom.slyt.gba.gob.ar/bulletins/11894/contents/2148896",
+   "versions": [
+    {
+     "from": "2024-12-26",
+     "units": 11,
+     "source_url": "https://sibom.slyt.gba.gob.ar/bulletins/11894/contents/2148896",
+     "sha256": "0cc5cddbd4852bf7262c38484204eb46d9a86bca06d4f73d44281b2fc71fa0fe"
+    }
+   ]
+  },
+  {
+   "slug": "ordenanza-7315-2024",
+   "short": "Ordenanza 7315/2024",
+   "title": "Ordenanza 7315/2024: Concédase en forma gratuita la tenencia precaria del inmueble, identificado catastralmente como como circunscripción II, Sección B, Qta. 67, parte de la Parcela 3, sito en calle Julián O’Roarque Nro. 2937-Baradero, dentr",
+   "url": "https://sibom.slyt.gba.gob.ar/bulletins/11894/contents/2148901",
+   "versions": [
+    {
+     "from": "2024-12-26",
+     "units": 10,
+     "source_url": "https://sibom.slyt.gba.gob.ar/bulletins/11894/contents/2148901",
+     "sha256": "bb59e20dbd772f1b0dec53b1d1fb08cf5236b436c69e1679362894b2bb5f67f5"
+    }
+   ]
+  },
+  {
+   "slug": "ordenanza-7319-2025",
+   "short": "Ordenanza 7319/2025",
+   "title": "Ordenanza 7319/2025: Eximir del cincuenta por ciento (50%) del pago de las Tasas por Limpieza, Conservación de la Vía Pública y Servicios sanitarios, por el ejercicio 2024 a los Sres. Marín Escalante Bienvenido, DNI 93.194.545 y Schutz Mirta",
+   "url": "https://sibom.slyt.gba.gob.ar/bulletins/11899/contents/2149368",
+   "versions": [
+    {
+     "from": "2025-02-14",
+     "units": 5,
+     "source_url": "https://sibom.slyt.gba.gob.ar/bulletins/11899/contents/2149368",
+     "sha256": "aba7d28a3440ef465fde7db668a7347e09369fad7577b01c1548f2764a06b1e3"
+    }
+   ]
+  },
+  {
+   "slug": "ordenanza-7321-2025",
+   "short": "Ordenanza 7321/2025",
+   "title": "Ordenanza 7321/2025: Eximir del pago de las Tasas por Alumbrado, Barrido, Limpieza, Conservación de la Vía Pública y Servicios Sanitarios, correspondiente al ejercicio 2023 al Sr. Portillo Francisco Ramon, DNI 11.911.122.",
+   "url": "https://sibom.slyt.gba.gob.ar/bulletins/11899/contents/2149370",
+   "versions": [
+    {
+     "from": "2025-02-14",
+     "units": 6,
+     "source_url": "https://sibom.slyt.gba.gob.ar/bulletins/11899/contents/2149370",
+     "sha256": "2ec2a80421415a538deae9551d432c5dcd95e7917322550fed839ef900446aab"
+    }
+   ]
+  },
+  {
+   "slug": "ordenanza-7322-2025",
+   "short": "Ordenanza 7322/2025",
+   "title": "Ordenanza 7322/2025: Modifíquese el articulo 3° de la Ordenanza Impositiva vigente el cual quedará redactado de la siguiente forma:” TASA POR ALUMBRADO PUBLICO. ARTICULO 3°: Fíjense a los efectos del pago de la Tasa por Alumbrado Publico, de",
+   "url": "https://sibom.slyt.gba.gob.ar/bulletins/11899/contents/2174769",
+   "versions": [
+    {
+     "from": "2025-02-14",
+     "units": 3,
+     "source_url": "https://sibom.slyt.gba.gob.ar/bulletins/11899/contents/2174769",
+     "sha256": "fb07948b67646cba6f5792e0628314a963c2650e3d8c1dd19a4b86b96e4add8d"
+    }
+   ]
+  },
+  {
+   "slug": "ordenanza-7323-2025",
+   "short": "Ordenanza 7323/2025",
+   "title": "Ordenanza 7323/2025: Adhiérase la Municipalidad de Baradero a la Ley Provincial N° 15491, que da marco legal al tratamiento de la enfermedad llamada “Endometriosis” en el ámbito de la Provincia de Buenos Aires, con motivo de garantizar el de",
+   "url": "https://sibom.slyt.gba.gob.ar/bulletins/11899/contents/2149372",
+   "versions": [
+    {
+     "from": "2025-02-14",
+     "units": 4,
+     "source_url": "https://sibom.slyt.gba.gob.ar/bulletins/11899/contents/2149372",
+     "sha256": "2da1e8c96e76d2e4e85634de3d6159d05e287d8782da6b7b83534bec75d62033"
+    }
+   ]
+  },
+  {
+   "slug": "ordenanza-7333-2025",
+   "short": "Ordenanza 7333/2025",
+   "title": "Ordenanza 7333/2025: Transfiérase a título gratuito al Sindicato de Mecánicos y Afines del Transporte Automotor de la República Argentina (S.M.A.T.A.) Personería Gremial N. 85 con domicilio en calle Avenida Belgrano N°665 (1092 de la Ciudad ",
+   "url": "https://sibom.slyt.gba.gob.ar/bulletins/12204/contents/2174788",
+   "versions": [
+    {
+     "from": "2025-02-14",
+     "units": 5,
+     "source_url": "https://sibom.slyt.gba.gob.ar/bulletins/12204/contents/2174788",
+     "sha256": "ce38b5c160a87e42d94cbf95991a22664d9e581ace9d8975ab9ba0e5ccbab114"
+    }
+   ]
+  },
+  {
+   "slug": "ordenanza-7346-2025",
+   "short": "Ordenanza 7346/2025",
+   "title": "Ordenanza 7346/2025: Condonase al contribuyente Grassini Nilda María, DNI 4.070.146 la deuda devengada en concepto del Impuesto Automotor correspondiente a los ejercicios 2021, 2022 y 2023, con sus correspondientes recargos que mantiene con ",
+   "url": "https://sibom.slyt.gba.gob.ar/bulletins/12771/contents/2216777",
+   "versions": [
+    {
+     "from": "2025-05-24",
+     "units": 6,
+     "source_url": "https://sibom.slyt.gba.gob.ar/bulletins/12771/contents/2216777",
+     "sha256": "d7e80c24483d96d4ccaa1c18ceaa9b601fb3e757af46150eae91a64663d8a915"
+    }
+   ]
+  },
+  {
+   "slug": "ordenanza-7347-2025",
+   "short": "Ordenanza 7347/2025",
+   "title": "Ordenanza 7347/2025: Ratifíquese el Convenio de locación con pago en especie, suscripto entre la empresa IARSA S.A. (QUIT 30-70911793-5) representada en este acto por el Sr. Alberto G. Reano, DNI 17.241.859 con domicilio en calle 9 de julio ",
+   "url": "https://sibom.slyt.gba.gob.ar/bulletins/12771/contents/2216779",
+   "versions": [
+    {
+     "from": "2025-05-24",
+     "units": 3,
+     "source_url": "https://sibom.slyt.gba.gob.ar/bulletins/12771/contents/2216779",
+     "sha256": "c1e952d21260229b455c596491ecb3984a7adb38d75e3f6ca52e5796b37b4232"
+    }
+   ]
+  },
+  {
+   "slug": "ordenanza-7351-2025",
+   "short": "Ordenanza 7351/2025",
+   "title": "Ordenanza 7351/2025: Autorizase al Departamento Ejecutivo Municipal, representado por el Intendente Municipal Sr. Esteban Sanzio, a suscribir convenio con el Ministerio de Desarrollo Social de la Provincia de Buenos Aires y el Organismo Prov",
+   "url": "https://sibom.slyt.gba.gob.ar/bulletins/12771/contents/2216795",
+   "versions": [
+    {
+     "from": "2025-05-24",
+     "units": 3,
+     "source_url": "https://sibom.slyt.gba.gob.ar/bulletins/12771/contents/2216795",
+     "sha256": "236f87fadc94d954fbf7f7cc420f0adb9b4156b8003f17eed53f53e399422d1a"
+    }
+   ]
+  },
+  {
+   "slug": "ordenanza-7358-2025",
+   "short": "Ordenanza 7358/2025",
+   "title": "Ordenanza 7358/2025: Condonase la deuda devengada que registra el contribuyente Asoc. Argentina Adventista del 7mo día - Cuenta Nro. 20228-0 por los ejercicios 2014, 2015, 2016, 2018, 2019, 2020, 2021, 2022 y 2023 en concepto de Tasas Munici",
+   "url": "https://sibom.slyt.gba.gob.ar/bulletins/12771/contents/2216812",
+   "versions": [
+    {
+     "from": "2025-05-24",
+     "units": 12,
+     "source_url": "https://sibom.slyt.gba.gob.ar/bulletins/12771/contents/2216812",
+     "sha256": "8b1298c2332cfc0a6c612f694e29a31912182c1b66caa5cb0eabffd5cc3cf4c5"
+    }
+   ]
+  },
+  {
+   "slug": "ordenanza-7377-2025",
+   "short": "Ordenanza 7377/2025",
+   "title": "Ordenanza 7377/2025: Aceptase la renuncia efectuada por la Sra. Maestre Leonilda Beatriz DNI 25.579.123, a la adjudicación del lote/vivienda Plan Familia Propietaria, designada catastralmente como Cir. III, Secc. D, Chacra 67, Mza. 67 AN, Pa",
+   "url": "https://sibom.slyt.gba.gob.ar/bulletins/13522/contents/2280744",
+   "versions": [
+    {
+     "from": "2025-09-24",
+     "units": 6,
+     "source_url": "https://sibom.slyt.gba.gob.ar/bulletins/13522/contents/2280744",
+     "sha256": "8f4b6a1a2d1f2f3df348bd050d498969f17fb7d80706ca99dcbac45cacaecef3"
+    }
+   ]
+  },
+  {
+   "slug": "ordenanza-7378-2025",
+   "short": "Ordenanza 7378/2025",
+   "title": "Ordenanza 7378/2025: Condonase la deuda devengada que registra el contribuyente Sr. Savoy Oscar Marcelo, DNI 21.442.697, titular registrable del vehículo Marca: Renault Modelo SANDERO STEPWAY PH2 CONFORT 1.6, SEDAN 5 PTAS, Dominio KEM850, Añ",
+   "url": "https://sibom.slyt.gba.gob.ar/bulletins/13522/contents/2280747",
+   "versions": [
+    {
+     "from": "2025-09-24",
+     "units": 5,
+     "source_url": "https://sibom.slyt.gba.gob.ar/bulletins/13522/contents/2280747",
+     "sha256": "283752bc924f08ce5902bc4bf89f3fafdde2ebb060330a3d3b18fbecc7cb7455"
+    }
+   ]
+  },
+  {
+   "slug": "ordenanza-7380-2025",
+   "short": "Ordenanza 7380/2025",
+   "title": "Ordenanza 7380/2025: Reconózcase la deuda que mantiene el Municipio de Baradero con el Proveedor (9943) Chávez Ramiro Javier correspondiente al ejercicio 2023, y autorizase al Departamento Ejecutivo Municipal a efectuar el pago total por la ",
+   "url": "https://sibom.slyt.gba.gob.ar/bulletins/13522/contents/2280752",
+   "versions": [
+    {
+     "from": "2025-09-24",
+     "units": 5,
+     "source_url": "https://sibom.slyt.gba.gob.ar/bulletins/13522/contents/2280752",
+     "sha256": "f6ae1accdc4293fd9b5ec2b81a844b531706c6a6adbe43b8149debf36375b841"
+    }
+   ]
+  },
+  {
+   "slug": "ordenanza-7387-2025",
+   "short": "Ordenanza 7387/2025",
+   "title": "Ordenanza 7387/2025: Autorizase al Departamento Ejecutivo Municipal a disponer un espacio exclusivo de Detención para efectuar carga y descarga de mercaderías y solamente a tales efectos en el Comercio el Rodeo propiedad del Sr. García Pablo",
+   "url": "https://sibom.slyt.gba.gob.ar/bulletins/14009/contents/2318696",
+   "versions": [
+    {
+     "from": "2025-12-14",
+     "units": 6,
+     "source_url": "https://sibom.slyt.gba.gob.ar/bulletins/14009/contents/2318696",
+     "sha256": "67ee8305995e723ef48ece9d9def1da05bbe1c93dbcee3d955f473dcffed2927"
+    }
+   ]
+  },
+  {
+   "slug": "ordenanza-7392-2026",
+   "short": "Ordenanza 7392/2026",
+   "title": "Ordenanza 7392/2026: Comuníquese a la Dirección de Recursos Municipales para su registro y notificación.",
+   "url": "https://sibom.slyt.gba.gob.ar/bulletins/14335/contents/2339752",
+   "versions": [
+    {
+     "from": "2026-01-29",
+     "units": 4,
+     "source_url": "https://sibom.slyt.gba.gob.ar/bulletins/14335/contents/2339752",
+     "sha256": "eee502a294fb9581a9518ab6110c54b9d75cd4e4a64c469398329a6cd068ad10"
+    }
+   ]
+  },
+  {
+   "slug": "ordenanza-7393-2026",
+   "short": "Ordenanza 7393/2026",
+   "title": "Ordenanza 7393/2026: Crease la Tarifa Social la cual se ajustará a las siguientes condiciones:",
+   "url": "https://sibom.slyt.gba.gob.ar/bulletins/14335/contents/2339754",
+   "versions": [
+    {
+     "from": "2026-01-29",
+     "units": 14,
+     "source_url": "https://sibom.slyt.gba.gob.ar/bulletins/14335/contents/2339754",
+     "sha256": "145758842a4fcec9637a67ec3842b8214b249e3a827e3cf6ed1d90070624ba54"
+    }
+   ]
+  },
+  {
+   "slug": "ordenanza-7394-2026",
+   "short": "Ordenanza 7394/2026",
+   "title": "Ordenanza 7394/2026: Crease el Banco Municipal de Heparina en el ámbito del hospital municipal de Baradero, con el objetivo de garantizar el acceso gratuito a la medicación a mujeres embarazadas con diagnóstico de trombofilia que carezcan de",
+   "url": "https://sibom.slyt.gba.gob.ar/bulletins/14335/contents/2339759",
+   "versions": [
+    {
+     "from": "2026-01-29",
+     "units": 9,
+     "source_url": "https://sibom.slyt.gba.gob.ar/bulletins/14335/contents/2339759",
+     "sha256": "04f4f28de53063654d18241513e7bde0a766faac01f04834c74c440a87bcc375"
+    }
+   ]
+  },
+  {
+   "slug": "ordenanza-7396-2026",
+   "short": "Ordenanza 7396/2026",
+   "title": "Ordenanza 7396/2026: Declárase de Interés Municipal, Histórico y Cultural al centenario de la Tienda La Porteña, en reconocimiento a sus 100 años de actividad comercial ininterrumpida en la ciudad de Baradero.",
+   "url": "https://sibom.slyt.gba.gob.ar/bulletins/14335/contents/2339771",
+   "versions": [
+    {
+     "from": "2026-01-29",
+     "units": 7,
+     "source_url": "https://sibom.slyt.gba.gob.ar/bulletins/14335/contents/2339771",
+     "sha256": "1ae2666f18ea9bbdd0d2c39ad30c5d445c0f5b9e4a003a8c44ca819343800880"
+    }
+   ]
+  },
+  {
+   "slug": "ordenanza-7401-2026",
+   "short": "Ordenanza 7401/2026",
+   "title": "Ordenanza 7401/2026: Reconózcase como acceso público al rio la calle conocida como Camino Costa Alsina, desde su intersección con el camino Baradero - Alsina hasta su finalización en la margen del mencionado curso de agua del Rio Baradero",
+   "url": "https://sibom.slyt.gba.gob.ar/bulletins/14335/contents/2339782",
+   "versions": [
+    {
+     "from": "2026-01-29",
+     "units": 6,
+     "source_url": "https://sibom.slyt.gba.gob.ar/bulletins/14335/contents/2339782",
+     "sha256": "b589daa8a5350e8d8ef19325639e2acb23448c1f8cf66bf92981dcb50d69a7d4"
+    }
+   ]
+  },
+  {
+   "slug": "ordenanza-7406-2026",
+   "short": "Ordenanza 7406/2026",
+   "title": "Ordenanza 7406/2026: Establécese la obligatoriedad de instalar Desfibriladores Externos Automáticos (DEA) homologados en INSTALACIONES DEPORTIVAS (públicas y privadas), instrumento apto",
+   "url": "https://sibom.slyt.gba.gob.ar/bulletins/14335/contents/2339809",
+   "versions": [
+    {
+     "from": "2026-01-29",
+     "units": 13,
+     "source_url": "https://sibom.slyt.gba.gob.ar/bulletins/14335/contents/2339809",
+     "sha256": "7f3176079698aa464ab702fc738d892780c7aff8d6bf30aa430dfff8ad07eca9"
+    }
+   ]
+  },
+  {
+   "slug": "ordenanza-7419-2026",
+   "short": "Ordenanza 7419/2026",
+   "title": "Ordenanza 7419/2026: condonase la deuda correspondiente al Impuesto Automotor del vehículo dominio EXK-328, a nombre de Suarez Víctor Hugo, atento a que el mismo ha sido donado e incorporado al patrimonio municipal, de acuerdo a los fundamen",
+   "url": "https://sibom.slyt.gba.gob.ar/bulletins/14704/contents/2367860",
+   "versions": [
+    {
+     "from": "2026-04-09",
+     "units": 4,
+     "source_url": "https://sibom.slyt.gba.gob.ar/bulletins/14704/contents/2367860",
+     "sha256": "38e02616cd21977e5b04eb3d2e86086f4c670fc94c16163cd6f5a0237d9f810b"
+    }
+   ]
+  },
+  {
+   "slug": "ordenanza-7425-2026",
+   "short": "Ordenanza 7425/2026",
+   "title": "Ordenanza 7425/2026: Condonase a favor de la Asociación de Bomberos Voluntarios de Baradero, la deuda que mantiene con el Municipio de Baradero en concepto de tasas -Todos los recursos, Cuentas Nros. 24312 y 24313 por el ejercicio 2023.",
+   "url": "https://sibom.slyt.gba.gob.ar/bulletins/14704/contents/2367869",
+   "versions": [
+    {
+     "from": "2026-04-09",
+     "units": 7,
+     "source_url": "https://sibom.slyt.gba.gob.ar/bulletins/14704/contents/2367869",
+     "sha256": "e836b72f9e6d57c616a5b3567a8f0fbccd12c7dfdb677d7e35097f42c42ce2e3"
+    }
+   ]
+  },
+  {
+   "slug": "ordenanza-7429-2026",
+   "short": "Ordenanza 7429/2026",
+   "title": "Ordenanza 7429/2026: Autorizase la creación de un espacio de estacionamiento exclusivo para motocicletas en la esquina de la calle Paso y Araoz sobre calle Paso, en el sector que determine el Departamento de Seguridad Vial Municipal.",
+   "url": "https://sibom.slyt.gba.gob.ar/bulletins/14704/contents/2367874",
+   "versions": [
+    {
+     "from": "2026-04-09",
+     "units": 5,
+     "source_url": "https://sibom.slyt.gba.gob.ar/bulletins/14704/contents/2367874",
+     "sha256": "2e7777e07b71d76826fe0ebff7dd6c3a11a69973bc1c38b99a22ba0eb4284d80"
+    }
+   ]
+  },
+  {
+   "slug": "ordenanza-7434-2026",
+   "short": "Ordenanza 7434/2026",
+   "title": "Ordenanza 7434/2026: Hágase entrega de la Bandera Oficial del Partido de Baradero (en su formato ceremonias con sus respectivos elementos: Asta, Corbata, Tahalí, Moharra,",
+   "url": "https://sibom.slyt.gba.gob.ar/bulletins/14704/contents/2367879",
+   "versions": [
+    {
+     "from": "2026-04-09",
+     "units": 5,
+     "source_url": "https://sibom.slyt.gba.gob.ar/bulletins/14704/contents/2367879",
+     "sha256": "b2d6f327a89587c0e95509809d0cbfbd624a341688517507b691a6f569db3695"
+    }
+   ]
+  },
+  {
+   "slug": "ordenanza-7470-2026",
+   "short": "Ordenanza 7470/2026",
+   "title": "Ordenanza 7470/2026: Aféctese el producido correspondiente al dos por ciento (2%) del Derecho de Espectáculo Público, previsto en la Ordenanza Fiscal N°7441-25 e Impositiva N° 7442-25 conforme la siguiente distribución:",
+   "url": "https://sibom.slyt.gba.gob.ar/bulletins/15807/contents/2445828",
+   "versions": [
+    {
+     "from": "2026-09-16",
+     "units": 9,
+     "source_url": "https://sibom.slyt.gba.gob.ar/bulletins/15807/contents/2445828",
+     "sha256": "6512275ba91c5b413d48f57291d892fd4dd45e414c7c7fe04a35cc2933fc0888"
+    }
+   ]
+  },
+  {
+   "slug": "ordenanza-7458-2026",
+   "short": "Ordenanza 7458/2026",
+   "title": "Ordenanza 7458/2026: Modificase el artículo 2° de la Ordenanza N° 4527/2011, el que quedará redactado de la siguiente manera: “Artículo 2°: Afectase al uso público una fracción del inmueble identificado catastralmente como Circunscripción II",
+   "url": "https://sibom.slyt.gba.gob.ar/bulletins/15807/contents/2445813",
+   "versions": [
+    {
+     "from": "2026-09-25",
+     "units": 5,
+     "source_url": "https://sibom.slyt.gba.gob.ar/bulletins/15807/contents/2445813",
+     "sha256": "8bfa7309ec95801d4bd2d3d42f0edd1d0ee7a5074a8cd2f37eef93ee8f430e5a"
+    }
+   ]
+  },
+  {
+   "slug": "ordenanza-7464-2026",
+   "short": "Ordenanza 7464/2026",
+   "title": "Ordenanza 7464/2026: Apruébese la compensación de excesos y economías sobre el Presupuesto de Gastos 2025, según el detalle que se adjunta como Anexo 1 del presente, el cual consta 3 (tres) hojas.",
+   "url": "https://sibom.slyt.gba.gob.ar/bulletins/15807/contents/2445820",
+   "versions": [
+    {
+     "from": "2026-09-25",
+     "units": 4,
+     "source_url": "https://sibom.slyt.gba.gob.ar/bulletins/15807/contents/2445820",
+     "sha256": "5bb6b8ec4373e5eaedad6af9f79e890e6afbe073c70f56ffadfbae00fd95197c"
+    }
+   ]
+  },
+  {
+   "slug": "ordenanza-7468-2026",
+   "short": "Ordenanza 7468/2026",
+   "title": "Ordenanza 7468/2026: Crease sector exclusivo de estacionamiento destinado a vehículos que transporten, personas con discapacidad, debidamente identificados conforme normativa vigente, en el siguiente punto de la ciudad de Baradero:",
+   "url": "https://sibom.slyt.gba.gob.ar/bulletins/15807/contents/2445826",
+   "versions": [
+    {
+     "from": "2026-09-25",
+     "units": 7,
+     "source_url": "https://sibom.slyt.gba.gob.ar/bulletins/15807/contents/2445826",
+     "sha256": "61636f9c2d35d0ae9a3013e47afc677bd03f0b8c44aa3a4819ccb763c7894528"
+    }
+   ]
+  },
+  {
+   "slug": "ordenanza-7474-2026",
+   "short": "Ordenanza 7474/2026",
+   "title": "Ordenanza 7474/2026: Otorgase la eximición del pago del tributo municipal correspondiente a Patentes de Rodados, respecto de motocicletas comprendidas en la órbita tributaria municipal que hubieren sido objeto de robo o hurto, conforme las c",
+   "url": "https://sibom.slyt.gba.gob.ar/bulletins/16016/contents/2462435",
+   "versions": [
+    {
+     "from": "2026-10-30",
+     "units": 6,
+     "source_url": "https://sibom.slyt.gba.gob.ar/bulletins/16016/contents/2462435",
+     "sha256": "d193a7b585a25720bfef49e41ab34a1d268b7a6247ab75ec76f20d1f3eaf9870"
+    }
+   ]
+  }
+ ]
+}
