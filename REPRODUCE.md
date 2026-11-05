@@ -1,12 +1,13 @@
 # How this repository was made (Baradero)
 
-This file is written by the build on 2026-11-01, the day the source data was retrieved.
+This file is written by the build on 2026-11-05, the day the source data was retrieved.
 
 ## Sources
 
 | Source | Address | Retrieved | Licence |
 | --- | --- | --- | --- |
 | Sistema de Boletines Oficiales Municipales (SIBOM), Subsecretaría Legal y Técnica, Secretaría General, Provincia de Buenos Aires: Boletín Oficial Municipal de Baradero | <https://sibom.slyt.gba.gob.ar/cities/11> | 2026-11-01 | Official municipal ordinances, published in the Boletín Oficial Municipal. Argentina's copyright law (Ley 11.723) has no express exclusion for them; ordinances are public acts of government, binding on everyone once officially published. The source states no restriction on reuse. Reproduced with attribution, following the official text. |
+| Boletín Oficial Municipal de Baradero (SIBOM) | <https://sibom.slyt.gba.gob.ar/cities/11> | 2026-11-05 | Official municipal publication, reproduced with attribution. SIBOM states no restriction on reuse. |
 
 Every word of law in this repository comes from these sources. Lexifina reads them and records each act's dated versions, and the laws that made each change, in one corpus file. This repository is built from that file.
 
@@ -205,20 +206,30 @@ Every word of law in this repository comes from these sources. Lexifina reads th
 | `ordenanza-7464-2026` | Ordenanza 7464/2026: Apruébese la compensación de excesos y economías sobre el Presupuesto de Gastos 2025, según el detalle que se adjunta como Anexo 1 del presente, el cual consta 3 (tres) hojas. | 1 | 2026-09-25 to 2026-09-25 |
 | `ordenanza-7468-2026` | Ordenanza 7468/2026: Crease sector exclusivo de estacionamiento destinado a vehículos que transporten, personas con discapacidad, debidamente identificados conforme normativa vigente, en el siguiente punto de la ciudad de Baradero: | 1 | 2026-09-25 to 2026-09-25 |
 | `ordenanza-7474-2026` | Ordenanza 7474/2026: Otorgase la eximición del pago del tributo municipal correspondiente a Patentes de Rodados, respecto de motocicletas comprendidas en la órbita tributaria municipal que hubieren sido objeto de robo o hurto, conforme las c | 1 | 2026-10-30 to 2026-10-30 |
+| `ordenanza-7163-2023` | Efectúese excepción a la Ordenanza registrada bajo el N°4399/10 y sus modificatorias en su artículo 16 correspondiente al comercio rubro Supermercado, a nombre del Sr. HUANG SHANGJIN, titular del DNI 95.954.775, sito en  | 1 | 2023-07-28 to 2023-07-28 |
+| `ordenanza-7177-2023` | Autorizase al Departamento Ejecutivo Municipal, en un todo de acuerdo a la norma del Art. 155° de la Ley Orgánica de las Municipalidades, a adjudicar a la Firma COLAME HNOS SRL, con domicilio legal en calle San Martín N° | 1 | 2023-11-08 to 2023-11-08 |
+| `ordenanza-7180-2023` | Autorizase al Departamento Ejecutivo Municipal, en un todo de acuerdo a la norma del Art. 155° de la Ley Orgánica de las Municipalidades, a adjudicar a la Firma STRICKING S.R.L, con domicilio legal en calle Colon N°9 de  | 1 | 2023-11-08 to 2023-11-08 |
+| `ordenanza-7182-2023` | Autorizase al Departamento Ejecutivo Municipal a efectuar reserva de espacio público de estacionamiento al Sr. Cortese José Antonio Pellegrino, titular del DNI 6.251.337, frente a su domicilio en la acera par y para un s | 1 | 2024-01-14 to 2024-01-14 |
+| `ordenanza-7189-2023` | Autorizase al Departamento Ejecutivo Municipal a implementar la prestación del servicio público de transporte de pasajeros entre esta ciudad y las localidades de Alsina e Irineo Portela, mediante los vehículos adquiridos | 1 | 2024-01-14 to 2024-01-14 |
+| `ordenanza-7197-2023` | Efectúese excepción a la Ordenanza registrada bajo el N°4399/10 y sus modificatorias en su artículo 16 correspondiente al comercio rubro Venta de Materiales de Construcción, a nombre del Sr. Palau Omar Eduardo, DNI 11.23 | 1 | 2024-01-18 to 2024-01-18 |
+| `ordenanza-7203-2023` | Declárese Sitio Histórico, Simbólico y Social al inmueble y comercio denominado Farmacia Del Pueblo, ubicado en la esquina de las calles Malabia y Anchorena de la Ciudad de Baradero. | 1 | 2024-01-19 to 2024-01-19 |
+| `ordenanza-7216-2023` | Denominase a la media calle a ceder de la Chacra 6 Fra. II, comprendida entre las arterias Jesús Callejas y Esteban Echeverría, paralela y entre las calles Bicentenario y Jeanmaire de la ciudad de Baradero, con el nombre | 1 | 2024-01-21 to 2024-01-21 |
+| `ordenanza-7236-2023` | Aceptase la renuncia presentada por los Sres. Rey Eduardo Ramón Francisco, DNI 5.862.564 y Emilia Elvira Lambrusqui, DNI 3.593.239, a la adjudicación de la vivienda Nro. 22 – Barrio Pro Casa III, designado catastralmente | 1 | 2024-03-24 to 2024-03-24 |
+| `ordenanza-7238-2023` | Autorizase al Departamento Ejecutivo Municipal, representado por el Intendente, Sr. Esteban Sanzio, a suscribir convenio con el Ministerio de Desarrollo Social de la Provincia de Buenos Aires y el Organismo Provincial de | 1 | 2024-03-24 to 2024-03-24 |
 
-The build made 191 commits:
+The build made 201 commits:
 
 | Commits | Kind |
 | ---: | --- |
-| 191 | first version of an act |
+| 201 | first version of an act |
 | 0 | one law on its in-force day |
 | 0 | changes no amendment note explains, credited to the publisher |
 
 Other counts:
-- 0 commits on the branch `futuro`: laws not yet in force on 2026-11-01.
+- 0 commits on the branch `futuro`: laws not yet in force on 2026-11-05.
 - 0 commits dated 1 January 1970: in force before 1970, with the real day in their `In-force` trailer.
-- 191 laws in the record.
-- 382 tags.
+- 201 laws in the record.
+- 402 tags.
 
 ## Dates
 
@@ -230,13 +241,13 @@ When a law gives no date of its own, the default rule applies: An ordinance take
 
 `tools/build.py` turns the corpus into this history in one pass: one commit per law, on the day it took effect. The same corpus always gives the same commit hashes. `tools/check_repo.py` reads every version back from git and compares it with the corpus. `tools/on.py` shows the law as it stood on any date. The corpus format is described in `tools/SCHEMA.md`.
 
-- Corpus: sha256 `2631eea559a79fd0ccb38a68fd305cba1720c111037328ca389027e8b96757cf` (1174293 bytes).
+- Corpus: sha256 `6efda91125c4b03f448652c0260f7cc1b0ac2bd0e1ac2d63257d616c51250ae0` (1220093 bytes).
 - Builder blob hashes (`git hash-object`): `build.py` `35388bee5aa05369f7da68f5a8fa015ea8d442b8`, `check.py` `5d719354ea4c62d240c93d2cae446307d81d9e81`, `on.py` `aff48cf1b68d50c7ba8f399ca32261871c301824`.
 - Python 3.14.4; git version 2.53.0.
 
 ## Checks
 
-191 versions of 191 acts read back from git on the day each took effect and on the day before: 0 mismatches. Trailers: 0 commits whose trailers git cannot parse. Health: 0 merge commits on main, 0 commit dates that go backwards, 0 commits dated after the build.
+Not yet run for this build.
 
 No second build of this corpus has been compared yet.
 
@@ -247,6 +258,19 @@ No second build of this corpus has been compared yet.
 - The Province of Buenos Aires gives its municipalities no carta orgánica: their organic law is the provincial Ley Orgánica de las Municipalidades (Decreto-Ley 6769/58), which is provincial law and not included here. So this repository starts with ordinances.
 - Ordinances are taken from SIBOM's ordinance search for the partido, read from its last result page back (the search lists them only roughly in date order) until about 200 are found, the newest it holds. They are sorted by the day they took effect and added oldest first in parts of about 50, so each part extends the history forward. An ordinance whose page carries only an extract, no article, or its text only as a PDF annex is left out; the README lists every ordinance left out and why. An ordinance published twice is taken from its first publication.
 - Units: the heading (encabezado: number, place and date, the expediente line and anything before Artículo 1) and one file per article, holding the article and everything printed after it up to the next article (signatures, annexes). Nothing is dropped. One paragraph per line, spacing normalised.
+- These are additional as-published ordinances whose hyphenated number suffix was rejected by the earlier reader; the suffix gives the ordinance year and does not change the source wording.
+- Each ordinance retains its own source text. Amendments are not replayed into earlier ordinances; no consolidated or earlier version is asserted.
+- In-force dates use the ordinance’s own commencement clause when stated, otherwise the ninth day after official bulletin publication under the corpus default rule. No retrieval day substitutes for a source date.
+- Ordenanza 7163/2023: published 2023-07-19; made 2023-03-21; in force 2023-07-28: default rule: the ninth day after publication in the Boletín Oficial Municipal. Text is as published, not consolidated.
+- Ordenanza 7177/2023: published 2023-10-30; made 2023-05-16; in force 2023-11-08: default rule: the ninth day after publication in the Boletín Oficial Municipal. Text is as published, not consolidated.
+- Ordenanza 7180/2023: published 2023-10-30; made 2023-05-16; in force 2023-11-08: default rule: the ninth day after publication in the Boletín Oficial Municipal. Text is as published, not consolidated.
+- Ordenanza 7182/2023: published 2024-01-05; made 2023-06-06; in force 2024-01-14: default rule: the ninth day after publication in the Boletín Oficial Municipal. Text is as published, not consolidated.
+- Ordenanza 7189/2023: published 2024-01-05; made 2023-06-06; in force 2024-01-14: default rule: the ninth day after publication in the Boletín Oficial Municipal. Text is as published, not consolidated.
+- Ordenanza 7197/2023: published 2024-01-09; made 2023-07-18; in force 2024-01-18: default rule: the ninth day after publication in the Boletín Oficial Municipal. Text is as published, not consolidated.
+- Ordenanza 7203/2023: published 2024-01-10; made 2023-08-15; in force 2024-01-19: default rule: the ninth day after publication in the Boletín Oficial Municipal. Text is as published, not consolidated.
+- Ordenanza 7216/2023: published 2024-01-12; made 2023-09-19; in force 2024-01-21: default rule: the ninth day after publication in the Boletín Oficial Municipal. Text is as published, not consolidated.
+- Ordenanza 7236/2023: published 2024-03-15; made 2023-12-05; in force 2024-03-24: default rule: the ninth day after publication in the Boletín Oficial Municipal. Text is as published, not consolidated.
+- Ordenanza 7238/2023: published 2024-03-15; made 2023-12-05; in force 2024-03-24: default rule: the ninth day after publication in the Boletín Oficial Municipal. Text is as published, not consolidated.
 
 ## What AI did and did not do
 
@@ -258,3 +282,4 @@ The commit messages are written by `build.py` from the source data.
 
 Model use at data-build time:
 - A model (Claude) wrote the fetch and parse code and chose which norms to include; it wrote no law text. Every word of law comes from the provincial source's own texts.
+- GPT-6 inspected source structure and metadata and wrote the deterministic reader. No model wrote or corrected law text.

@@ -210,6 +210,21 @@
     "ordenanza-7474-2026"
    ],
    "sha256": "135ece848ba5159b24832af33179427fef1ce616ae15381fd6184fbcf61d7f45"
+  },
+  "40-q243-recovered-ordenanzas.json": {
+   "acts": [
+    "ordenanza-7163-2023",
+    "ordenanza-7177-2023",
+    "ordenanza-7180-2023",
+    "ordenanza-7182-2023",
+    "ordenanza-7189-2023",
+    "ordenanza-7197-2023",
+    "ordenanza-7203-2023",
+    "ordenanza-7216-2023",
+    "ordenanza-7236-2023",
+    "ordenanza-7238-2023"
+   ],
+   "sha256": "ab300075dde463db531db456ca24a2353f97dcb6815ccc4d740ca76543662892"
   }
  },
  "schema": 1

@@ -8,7 +8,7 @@ The text is in Spanish, exactly as the source prints it.
 
 ## What this repository holds
 
-191 ordinances so far, in force from 9 August 2017 to 30 October 2026, each as published in the Boletín Oficial Municipal de Baradero, added in parts.
+201 ordinances so far, in force from 9 August 2017 to 30 October 2026, each as published in the Boletín Oficial Municipal de Baradero, added in parts.
 
 | Folder | Ordinance | History |
 | --- | --- | --- |
@@ -204,6 +204,17 @@ The text is in Spanish, exactly as the source prints it.
 | `ordenanza-7468-2026/` | Ordenanza 7468/2026: Crease sector exclusivo de estacionamiento destinado a vehículos que transporten, personas con discapacidad, debidamente identificados conf… | in force 25 September 2026 |
 | `ordenanza-7474-2026/` | Ordenanza 7474/2026: Otorgase la eximición del pago del tributo municipal correspondiente a Patentes de Rodados, respecto de motocicletas comprendidas en la órb… | in force 30 October 2026 |
 
+| `ordenanza-7163-2023/` | Ordenanza 7163/2023: Efectúese excepción a la Ordenanza registrada bajo el N°4399/10 y sus modificatorias en su artículo 16 correspondiente al comercio rubro Sup | as published; in force 2023-07-28 |
+| `ordenanza-7177-2023/` | Ordenanza 7177/2023: Autorizase al Departamento Ejecutivo Municipal, en un todo de acuerdo a la norma del Art. 155° de la Ley Orgánica de las Municipalidades, a | as published; in force 2023-11-08 |
+| `ordenanza-7180-2023/` | Ordenanza 7180/2023: Autorizase al Departamento Ejecutivo Municipal, en un todo de acuerdo a la norma del Art. 155° de la Ley Orgánica de las Municipalidades, a | as published; in force 2023-11-08 |
+| `ordenanza-7182-2023/` | Ordenanza 7182/2023: Autorizase al Departamento Ejecutivo Municipal a efectuar reserva de espacio público de estacionamiento al Sr. Cortese José Antonio Pellegri | as published; in force 2024-01-14 |
+| `ordenanza-7189-2023/` | Ordenanza 7189/2023: Autorizase al Departamento Ejecutivo Municipal a implementar la prestación del servicio público de transporte de pasajeros entre esta ciudad | as published; in force 2024-01-14 |
+| `ordenanza-7197-2023/` | Ordenanza 7197/2023: Efectúese excepción a la Ordenanza registrada bajo el N°4399/10 y sus modificatorias en su artículo 16 correspondiente al comercio rubro Ven | as published; in force 2024-01-18 |
+| `ordenanza-7203-2023/` | Ordenanza 7203/2023: Declárese Sitio Histórico, Simbólico y Social al inmueble y comercio denominado Farmacia Del Pueblo, ubicado en la esquina de las calles Mal | as published; in force 2024-01-19 |
+| `ordenanza-7216-2023/` | Ordenanza 7216/2023: Denominase a la media calle a ceder de la Chacra 6 Fra. II, comprendida entre las arterias Jesús Callejas y Esteban Echeverría, paralela y e | as published; in force 2024-01-21 |
+| `ordenanza-7236-2023/` | Ordenanza 7236/2023: Aceptase la renuncia presentada por los Sres. Rey Eduardo Ramón Francisco, DNI 5.862.564 y Emilia Elvira Lambrusqui, DNI 3.593.239, a la adj | as published; in force 2024-03-24 |
+| `ordenanza-7238-2023/` | Ordenanza 7238/2023: Autorizase al Departamento Ejecutivo Municipal, representado por el Intendente, Sr. Esteban Sanzio, a suscribir convenio con el Ministerio d | as published; in force 2024-03-24 |
+
 ## Source
 
 Sistema de Boletines Oficiales Municipales (SIBOM), Subsecretaría Legal y Técnica, Secretaría General, Provincia de Buenos Aires: Boletín Oficial Municipal de Baradero, <https://sibom.slyt.gba.gob.ar/cities/11>. SIBOM is the platform on which each municipality of the Province of Buenos Aires makes its Boletín Oficial Municipal (Ley 14.491). For each bulletin it lists the ordinances it published; each ordinance has its own page with the text as published (HTML). The site states no terms restricting reuse.
@@ -230,20 +241,4 @@ This is not an official publication. The binding text is the one published in th
 
 ## Left out
 
-13 ordinances that SIBOM lists in the period covered are not included, because the Boletín Oficial Municipal de Baradero page gives no article text to read:
-
-| Ordinance | Published | Why | Page |
-| --- | --- | --- | --- |
-| Ordenanza 5583 | 2 January 2018 | no article in the published text | <https://sibom.slyt.gba.gob.ar/bulletins/607/contents/1180042> |
-| Ordenanza 5909 | 18 December 2019 | no article in the published text | <https://sibom.slyt.gba.gob.ar/bulletins/3051/contents/1412586> |
-| Ordenanza 7163-23 | 19 July 2023 | number or publication date not readable | <https://sibom.slyt.gba.gob.ar/bulletins/9111/contents/1915793> |
-| Ordenanza 7177-23 | 30 October 2023 | number or publication date not readable | <https://sibom.slyt.gba.gob.ar/bulletins/9614/contents/1966299> |
-| Ordenanza 7180-23 | 30 October 2023 | number or publication date not readable | <https://sibom.slyt.gba.gob.ar/bulletins/9614/contents/1966307> |
-| Ordenanza 7181-23 | 30 October 2023 | number or publication date not readable | <https://sibom.slyt.gba.gob.ar/bulletins/9614/contents/1966313> |
-| Ordenanza 7182-23 | 5 January 2024 | number or publication date not readable | <https://sibom.slyt.gba.gob.ar/bulletins/10004/contents/2002825> |
-| Ordenanza 7189-23 | 5 January 2024 | number or publication date not readable | <https://sibom.slyt.gba.gob.ar/bulletins/10004/contents/2003239> |
-| Ordenanza 7197-23 | 9 January 2024 | number or publication date not readable | <https://sibom.slyt.gba.gob.ar/bulletins/10031/contents/2004171> |
-| Ordenanza 7203-23 | 10 January 2024 | number or publication date not readable | <https://sibom.slyt.gba.gob.ar/bulletins/10042/contents/2004895> |
-| Ordenanza 7216-23 | 12 January 2024 | number or publication date not readable | <https://sibom.slyt.gba.gob.ar/bulletins/10055/contents/2006344> |
-| Ordenanza 7236-23 | 15 March 2024 | number or publication date not readable | <https://sibom.slyt.gba.gob.ar/bulletins/10295/contents/2025313> |
-| Ordenanza 7238-23 | 15 March 2024 | number or publication date not readable | <https://sibom.slyt.gba.gob.ar/bulletins/10295/contents/2025315> |
+Three entries in the previously covered catalogue remain excluded. Ordenanza 5583 (published 2 January 2018) provides only a fiscal preparatory heading; Ordenanza 5909 (published 18 December 2019) is marked INVALIDA with no normative articles. Ordenanza 7181/2023 (published 30 October 2023) incorporates an attached agreement whose text is absent from the ordinance page. Further ordinance listings outside the selected catalogue have not been fully enumerated. No consolidated or reconstructed earlier wording is asserted.

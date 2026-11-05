@@ -5,7 +5,7 @@
   "level": "municipality",
   "parent": "ar-b",
   "repo": "https://github.com/lexifina/argentina-baradero-city-law",
-  "build": "built: municipal ordinances (191 ordinances, 191 versions) from https://sibom.slyt.gba.gob.ar/cities/11",
+  "build": "built: municipal ordinances (201 ordinances, 201 versions), as published in the official municipal bulletins",
   "language": "es",
   "sources": 1
 }
